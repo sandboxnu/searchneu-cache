@@ -1,0 +1,319 @@
+terms:
+  # Spring 2026 Semester
+  - term: 202630
+    activeUntil: 2026-2-01
+  # Winter 2026 CPS Quarter
+  - term: 202625
+    activeUntil: 2026-2-01
+  # Fall 2025 CPS Quarter
+  - term: 202615
+    activeUntil: 2025-12-10
+  # Fall 2025 Semester
+  - term: 202610
+    activeUntil: 2025-10-01
+  # Summer 2 2025 Semester
+  - term: 202560
+    activeUntil: 2025-08-01
+  # Summer 2025 CPS Quarter
+  - term: 202555
+    activeUntil: 2025-08-1
+  # Summer 2025 CPS Semester
+  - term: 202554
+    activeUntil: 2025-08-1
+  # Summer 2025 Law Semester
+  - term: 202552
+    activeUntil: 2025-08-01
+  # Summer Full 2025 Semester
+  - term: 202550
+    activeUntil: 2025-08-1
+  # Summer 1 2025 Semester
+  - term: 202540
+    activeUntil: 2025-08-1
+  # Spring 2025 CPS Quarter
+  - term: 202535
+    activeUntil: 2025-08-1
+  # Spring 2025 CPS Semester
+  - term: 202534
+    activeUntil: 2025-08-1
+  # Spring 2025 Law Semester
+  - term: 202532
+    activeUntil: 2025-08-1
+  # Spring 2025 Semester
+  - term: 202530
+    activeUntil: 2025-08-1
+  # Winter 2025 CPS Quarter
+  - term: 202525
+    activeUntil: 2025-08-1
+  # Fall 2024 CPS Quarter
+  - term: 202515
+    activeUntil: 2025-01-1
+  # Fall 2024 CPS Semester
+  - term: 202514
+    activeUntil: 2025-01-1
+  # Fall 2024 Law Semester
+  - term: 202512
+    activeUntil: 2025-01-1
+  # Fall 2024 Semester
+  - term: 202510
+    activeUntil: 2025-01-1
+  # Summer 2 2024 Semester
+  - term: 202460
+    activeUntil: 2025-01-1
+  # Summer 2024 CPS Quarter
+  - term: 202455
+    activeUntil: 2025-01-1
+  # Summer 2024 CPS Semester
+  - term: 202454
+    activeUntil: 2025-01-1
+  # Summer 2024 Law Semester
+  - term: 202452
+    activeUntil: 2025-01-1
+  # Summer Full 2024 Semester
+  - term: 202450
+    activeUntil: 2025-01-1
+  # Summer 1 2024 Semester
+  - term: 202440
+    activeUntil: 2025-01-1
+  # Spring 2024 CPS Quarter
+  - term: 202435
+    activeUntil: 2025-01-1
+  # Spring 2024 CPS Semester
+  - term: 202434
+    activeUntil: 2025-01-1
+  # Spring 2024 Law Semester
+  - term: 202432
+    activeUntil: 2025-01-1
+  # Spring 2024 Semester
+  - term: 202430
+    activeUntil: 2025-01-1
+  # Winter 2024 CPS Quarter
+  - term: 202425
+    activeUntil: 2025-01-1
+  # Fall 2023 CPS Quarter
+  - term: 202415
+    activeUntil: 2025-01-1
+  # Fall 2023 CPS Semester
+  - term: 202414
+    activeUntil: 2025-01-1
+  # Fall 2023 Law Semester
+  - term: 202412
+    activeUntil: 2025-01-1
+  # Fall 2023 Semester
+  - term: 202410
+    activeUntil: 2025-01-1
+  # Summer 2 2023 Semester
+  - term: 202360
+    activeUntil: 2025-01-1
+  # Summer 2023 CPS Quarter
+  - term: 202355
+    activeUntil: 2025-01-1
+  # Summer 2023 CPS Semester
+  - term: 202354
+    activeUntil: 2025-01-1
+  # Summer 2023 Law Semester
+  - term: 202352
+    activeUntil: 2025-01-1
+  # Summer Full 2023 Semester
+  - term: 202350
+    activeUntil: 2025-01-1
+  # Summer 1 2023 Semester
+  - term: 202340
+    activeUntil: 2025-01-1
+  # Spring 2023 CPS Quarter
+  - term: 202335
+    activeUntil: 2025-01-1
+  # Spring 2023 CPS Semester
+  - term: 202334
+    activeUntil: 2025-01-1
+  # Spring 2023 Law Semester
+  - term: 202332
+    activeUntil: 2025-01-1
+  # Spring 2023 Semester
+  - term: 202330
+    activeUntil: 2025-01-1
+  # Winter 2023 CPS Quarter
+  - term: 202325
+    activeUntil: 2025-01-1
+  # Fall 2022 CPS Quarter
+  - term: 202315
+    activeUntil: 2025-01-1
+  # Fall 2022 CPS Semester
+  - term: 202314
+    activeUntil: 2025-01-1
+  # Fall 2022 Law Semester
+  - term: 202312
+    activeUntil: 2025-01-1
+  # Fall 2022 Semester
+  - term: 202310
+    activeUntil: 2025-01-1
+  # Summer 2 2022 Semester
+  - term: 202260
+    activeUntil: 2025-01-1
+  # Summer 2022 CPS Quarter
+  - term: 202255
+    activeUntil: 2025-01-1
+  # Summer 2022 CPS Semester
+  - term: 202254
+    activeUntil: 2025-01-1
+  # Summer 2022 Law Semester
+  - term: 202252
+    activeUntil: 2025-01-1
+  # Summer Full 2022 Semester
+  - term: 202250
+    activeUntil: 2025-01-1
+  # Summer 1 2022 Semester
+  - term: 202240
+    activeUntil: 2025-01-1
+  # Spring 2022 CPS Quarter
+  - term: 202235
+    activeUntil: 2025-01-1
+  # Spring 2022 CPS Semester
+  - term: 202234
+    activeUntil: 2025-01-1
+  # Spring 2022 Law Semester
+  - term: 202232
+    activeUntil: 2025-01-1
+  # Spring 2022 Semester
+  - term: 202230
+    activeUntil: 2025-01-1
+  # Winter 2022 CPS Quarter
+  - term: 202225
+    activeUntil: 2025-01-1
+  # Fall 2021 CPS Quarter
+  - term: 202215
+    activeUntil: 2025-01-1
+  # Fall 2021 CPS Semester
+  - term: 202214
+    activeUntil: 2025-01-1
+  # Fall 2021 Law Semester
+  - term: 202212
+    activeUntil: 2025-01-1
+  # Fall 2021 Semester
+  - term: 202210
+    activeUntil: 2025-01-1
+  # Summer 2 2021 Semester
+  - term: 202160
+    activeUntil: 2025-01-1
+  # Summer 2021 CPS Quarter
+  - term: 202155
+    activeUntil: 2025-01-1
+  # Summer 2021 CPS Semester
+  - term: 202154
+    activeUntil: 2025-01-1
+  # Summer 2021 Law Semester
+  - term: 202152
+    activeUntil: 2025-01-1
+  # Summer Full 2021 Semester
+  - term: 202150
+    activeUntil: 2025-01-1
+  # Summer 1 2021 Semester
+  - term: 202140
+    activeUntil: 2025-01-1
+  # Spring 2021 Law Quarter
+  - term: 202138
+    activeUntil: 2025-01-1
+  # Spring 2021 CPS Quarter
+  - term: 202135
+    activeUntil: 2025-01-1
+  # Spring 2021 CPS Semester
+  - term: 202134
+    activeUntil: 2025-01-1
+  # Spring 2021 Law Semester
+  - term: 202132
+    activeUntil: 2025-01-1
+  # Spring 2021 Semester
+  - term: 202130
+    activeUntil: 2025-01-1
+  # Winter 2021 Law Quarter
+  - term: 202128
+    activeUntil: 2025-01-1
+  # Winter 2021 CPS Quarter
+  - term: 202125
+    activeUntil: 2025-01-1
+
+attributes:
+  campus:
+    - code: "Boston"
+      group: "United States"
+    - code: "Oakland, CA"
+      name: "Oakland"
+      group: "United States"
+    - code: "Charlotte, NC"
+      name: "Charlotte"
+      group: "United States"
+    - code: "Nahant"
+      group: "United States"
+    - code: "Burlington"
+      group: "United States"
+    - code: "Arlington, VA"
+      name: "Arlington"
+      group: "United States"
+    - code: "Seattle, WA"
+      name: "Seattle"
+      group: "United States"
+    - code: "Portland, Maine"
+      name: "Portland"
+      group: "United States"
+    - code: "Miami, FL"
+      name: "Miami"
+      group: "United States"
+    - code: "Silicon Valley, CA"
+      name: "Silicon Valley"
+      group: "United States"
+    - code: "Vancouver, Canada"
+      name: "Vancouver"
+      group: "Canada"
+    - code: "Toronto, Canada"
+      name: "Toronto"
+      group: "Canada"
+    - code: "Online"
+      group: "Other"
+    - code: "No campus, no room needed"
+      name: "Online"
+      group: "Other"
+    - code: "Study Abroad"
+      name: "Study Abroad"
+      group: "Other"
+    - code: "Unknown"
+      group: "Other"
+
+  nupath:
+    - code: "NUpath Natural/Designed World"
+      short: "ND"
+      name: "Natural/Designed World"
+    - code: "NUpath Creative Express/Innov"
+      short: "EI"
+      name: "Creative Express/Innov"
+    - code: "NUpath Interpreting Culture"
+      short: "IC"
+      name: "Interpreting Culture"
+    - code: "NUpath Formal/Quant Reasoning"
+      short: "FQ"
+      name: "Formal/Quant Reasoning"
+    - code: "NUpath Societies/Institutions"
+      short: "SI"
+      name: "Societies/Institutions"
+    - code: "NUpath Analyzing/Using Data"
+      short: "AD"
+      name: "Analyzing/Using Data"
+    - code: "NUpath Difference/Diversity"
+      short: "DD"
+      name: "Difference/Diversity"
+    - code: "NUpath Ethical Reasoning"
+      short: "ER"
+      name: "Ethical Reasoning"
+    - code: "NU Core/NUpath 1st Yr Writing"
+      short: "WF"
+      name: "First Year Writing"
+    - code: "NUpath Writing Intensive"
+      short: "WI"
+      name: "Writing Intensive"
+    - code: "NU Core/NUpath Adv Writ Dscpl"
+      short: "WD"
+      name: "Advanced Writing"
+    - code: "NUpath Integration Experience"
+      short: "EX"
+      name: "Integration Experience"
+    - code: "NUpath Capstone Experience"
+      short: "CE"
+      name: "Capstone Experience"

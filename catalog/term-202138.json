@@ -1,0 +1,2983 @@
+{
+  "version": 3,
+  "timestamp": "2025-12-21T06:15:35.248Z",
+  "term": {
+    "code": "202138",
+    "description": "Spring 2021 Law Quarter (View Only)"
+  },
+  "courses": [
+    {
+      "specialTopics": false,
+      "name": "Research-Visiting Student",
+      "courseNumber": "9100",
+      "subject": "INPR",
+      "description": "Offers visiting students enrolled and in good standing at another institution an opportunity to work with a sponsoring faculty member on a topic related to current research. Detail of visit is described in the sponsoring faculty member’s proposal approved prior to visit.  Faculty member and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade.",
+      "maxCredits": 0,
+      "minCredits": 0,
+      "attributes": [
+        "GNFT",
+        "GNNC",
+        "GNNE"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30423"
+    },
+    {
+      "specialTopics": false,
+      "name": "Legal Research and Writing for LLM Students: Preparing for Co-op",
+      "courseNumber": "6315",
+      "subject": "LAW",
+      "description": "Introduces graduates of law programs outside the United States to the practical application of U.S. legal discourse and legal research in the workplace. Students will have an opportunity to apply what they have learned about U.S. legal writing and research to the types of tasks that they will be called upon to complete during their co-op internship work experience.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {
+        "subject": "LAW",
+        "courseNumber": "6302"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30426"
+    },
+    {
+      "specialTopics": false,
+      "name": "Administrative Law",
+      "courseNumber": "7300",
+      "subject": "LAW",
+      "description": "This course provides an introduction to the legal doctrines designed to empower and constrain government agencies and officials in their daily practice of governance. Topics include the constitutional status of administrative agencies, due process, the Administrative Procedure Act and the availability and standards of judicial review of agency actions. The course emphasizes the historical evolution of the modern administrative state and the regulatory agency’s peculiar role in our system of governance.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30395"
+    },
+    {
+      "specialTopics": false,
+      "name": "Constitutional Litigation",
+      "courseNumber": "7320",
+      "subject": "LAW",
+      "description": "In the first phase of the course, the class considers strategic and tactical decision-making in constitutional litigation. In the second phase, students report on the process of litigating cases involving constitutional issues. Relying on briefs, court records and interviews with counsel, students report to the class and prepare a research paper setting out their findings. The paper is a major commitment of time and energy; only students with a significant interest in litigation of constitutional questions should apply. Papers are eligible to satisfy the writing requirement.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30427"
+    },
+    {
+      "specialTopics": false,
+      "name": "Securities Regulation",
+      "courseNumber": "7324",
+      "subject": "LAW",
+      "description": "Federal regulation of securities transactions originated in the New Deal investor protection legislation of the early 1930s and must now adapt to the changes and challenges of the 21st century. This course surveys major issues in the registration of initial public offerings (“IPOs”) under the Securities Act of 1933 and relevant provisions of the Securities Exchange Act of 1934, civil liability provisions, and the major exemptions from registration. Students will engage in detailed statutory analysis, as well as analysis of judicial and administrative decisions. The material covered in the course also raises important public policy issues such as “market democracy” and the role of regulation, disclosure policy with regard to corporate accountability and social responsibility, and the implications of internet disclosure.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30428"
+    },
+    {
+      "specialTopics": false,
+      "name": "Evidence",
+      "courseNumber": "7332",
+      "subject": "LAW",
+      "description": "This course examines how courtroom lawyers use the evidence rules to present their cases—notably, rules regarding relevance, hearsay, impeachment, character, and experts. The approach to the study of evidence will be primarily through the “problem” method—that is, applying the provisions of the Federal Rules of Evidence to concrete courtroom situations. Theoretical issues will be explored as a way to deepen the student’s appreciation of how the evidence rules can and ought to be used in litigation.",
+      "maxCredits": 4,
+      "minCredits": 4,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {
+        "type": "and",
+        "items": [
+          {
+            "subject": "LAW",
+            "courseNumber": "7647"
+          }
+        ]
+      },
+      "crn": "30330"
+    },
+    {
+      "specialTopics": false,
+      "name": "Negotiation",
+      "courseNumber": "7350",
+      "subject": "LAW",
+      "description": "Negotiation is a course where students engage in simulated disputes and transactions, which are then debriefed in class. Through frequent in-class mini-negotiations and major simulations, the course focuses on: (1) negotiation planning, (2) case preparation and evaluation, (3) client counseling and informed client consent, (4) analysis of the bargaining range and principled concession patterns, (5) competitive, cooperative and problem-solving strategies, (6) information bargaining, (7) ethics and (8) critiques of negotiation patterns and institutions. Students are required to turn in preparation materials and to keep weekly journals, reviewed by the instructor, addressing their experiences in, and thoughts about, negotiations. Students are encouraged to internalize habits of analysis, prediction, preparation, and flexibility and to become more self-evaluative for their future negotiating experiences.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30331"
+    },
+    {
+      "specialTopics": false,
+      "name": "Poverty Law and Practice Clinic",
+      "courseNumber": "7362",
+      "subject": "LAW",
+      "description": "The twenty hours a week spent in the clinic provides an opportunity for students to provide direct representation to clients confronting legal challenges as they try to balance family and work responsibilities. Students have complete responsibility for a range of clients under the supervision of a faculty member. Students interview, research, plan, investigate, counsel, negotiate, and advocate for their clients. The clinic encourages students to maintain a client-centered focus and looks to extend the experience beyond the problem of the individual to the benefit for the community. The clinic also provides an opportunity to work in collaboration with a community organization in order to experience collaborative efforts for systemic change for low income clients.",
+      "maxCredits": 6,
+      "minCredits": 6,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30341"
+    },
+    {
+      "specialTopics": false,
+      "name": "Corporate Taxation",
+      "courseNumber": "7400",
+      "subject": "LAW",
+      "description": "An introduction to Subchapter C of the Internal Revenue Code and an exercise in reading a short but difficult statute. Among topics covered are taxation of dividends, stock redemptions, liquidations, distributions, and taxable and tax-free sales of corporate stock and assets.",
+      "maxCredits": 4,
+      "minCredits": 4,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {
+        "subject": "LAW",
+        "courseNumber": "7479"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30429"
+    },
+    {
+      "specialTopics": false,
+      "name": "Domestic Violence Clinic",
+      "courseNumber": "7410",
+      "subject": "LAW",
+      "description": "The School of Law’s Domestic Violence Institute offers an upper-level clinic focused on violence prevention and criminal intervention at Dorchester District Court. In this clinic, students develop traditional lawyering skills—including interviewing and counseling clients, and preparing and presenting cases in court—in the context of a busy community court that handles thousands of domestic abuse cases each year. The clinic also trains students to participate in a broader community-based response to domestic violence and to work collaboratively in interdisciplinary teams with battered women survivors, advocacy groups and police and law enforcement personnel.",
+      "maxCredits": 6,
+      "minCredits": 6,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30401"
+    },
+    {
+      "specialTopics": false,
+      "name": "Labor Law 2",
+      "courseNumber": "7429",
+      "subject": "LAW",
+      "description": "An advanced labor law course focusing on the law of the collective bargaining agreement. The course compares collective bargaining rights to other workplace rights systems, such as individual statutory entitlement and public employee constitutional rights.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30430"
+    },
+    {
+      "specialTopics": false,
+      "name": "Secured Transactions",
+      "courseNumber": "7434",
+      "subject": "LAW",
+      "description": "This course has as its principal focus the way that most credit in America is extended. The transactions covered range from the purchase by consumers of automobiles or large household goods on credit to mega-loans by banks to large corporations. The primary law studied is Article 9 of the Uniform Commercial Code as well as certain sections of the federal Bankruptcy Code. The course also seeks to introduce students to commercial law generally and to further their facility with issues of statutory construction.",
+      "maxCredits": 4,
+      "minCredits": 4,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30431"
+    },
+    {
+      "specialTopics": false,
+      "name": "Professional Responsibility",
+      "courseNumber": "7443",
+      "subject": "LAW",
+      "description": "This course focuses on the legal, ethical and professional dilemmas encountered by lawyers. Emphasis is on justice as a product of the quality of life that society provides to people rather than merely the process that the legal system provides once a crime or breach of duty has occurred. The course also provides students with a working knowledge of the American Bar Association’s Model Rules of Professional Conduct and the Code of Professional Responsibility as well as an understanding of the underlying issues and a perspective within which to evaluate them. In addition, the course examines the distribution of legal services to poor and non-poor clients.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30332"
+    },
+    {
+      "specialTopics": false,
+      "name": "Alternative Dispute Resolution",
+      "courseNumber": "7449",
+      "subject": "LAW",
+      "description": "This course is designed to introduce the theory and practice of various dispute resolution mechanisms that are alternatives to the traditional litigation model for resolving disputes. Insofar as negotiation is the foundation of most ADR processes, the course begins there. We will analyze negotiation theory and strategy before adding mediation and collaborative law to the mix. We will look at how to represent clients in negotiation, mediation and collaborative law, how to prepare for these processes and how to develop effective strategies. The final weeks of the course will focus on understanding the essential attributes of arbitration.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30432"
+    },
+    {
+      "specialTopics": false,
+      "name": "Non-Profit Organizations",
+      "courseNumber": "7463",
+      "subject": "LAW",
+      "description": "This course is about federal regulation of nonprofit organizations. Why does the government exempt certain organizations from tax? What are the rules that non-profit organizations must follow in order to retain their tax-exempt status? What activities by non-profit organizations are prohibited by federal law? These and other questions about non-profit organizations will be discussed. The course will focus on relevant Federal tax law, but there is no prerequisite for the course. Although the course is about the Internal Revenue Code, the concepts of income taxation (what is income? when is it income? etc.) are irrelevant because nonprofit organizations are exempt from tax.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30433"
+    },
+    {
+      "specialTopics": false,
+      "name": "First Amendment",
+      "courseNumber": "7475",
+      "subject": "LAW",
+      "description": "This course examines several rights protected by the First Amendment to the Constitution. The focus is on the principles and processes developed by the judiciary to protect various forms of speech, expression and association. The course does NOT deal with the free exercise of religion or the establishment clause. The course also focuses on integrating doctrine with the core values of the First Amendment as well as emphasizing the need for students to develop their own preferred approach to protecting free expression. The course does not, except tangentially, deal with other parts of the Bill of Rights.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30434"
+    },
+    {
+      "specialTopics": false,
+      "name": "Appellate Practice",
+      "courseNumber": "7496",
+      "subject": "LAW",
+      "description": "Covers various aspects of appellate practice, focusing on appellate jurisdiction, brief writing, and oral advocacy. As a component of the course, students work in teams of two to write an appellate brief, working from a record from a lower court, and argue the case. Includes observation of appellate arguments, conversations with appellate judges and with lawyers who focus on appellate practice, and review of cases that were briefed and argued in both Massachusetts appellate courts and federal courts.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30435"
+    },
+    {
+      "specialTopics": false,
+      "name": "Business Bankruptcy",
+      "courseNumber": "7503",
+      "subject": "LAW",
+      "description": "This course deals with business reorganization under Chapter 11 of the Bankruptcy Code.  The objective of Chapter 11 bankruptcy is to allow the debtor to modify and restructure its debt so that it can continue to operate its business.  The course will cover matters that typically arise in a Chapter 11 case, such as the automatic stay, modification of debt, rejecting contracts, post-bankruptcy financing, creditors¿ claims, management of the debtor, and the plan of reorganization.  The course will also address topical issues such as employee rights, retiree benefits, and mass tort claims, including asbestos and environmental claims.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30436"
+    },
+    {
+      "specialTopics": false,
+      "name": "Problems in Public Health Law",
+      "courseNumber": "7512",
+      "subject": "LAW",
+      "description": "This course will explore the rationales for using law to protect and preserve the public’s health, the legal tools that may be used to achieve that end, and the conflicts and problems that may result from legal interventions. Topics discussed will include the use of law to reduce the spread of HIV and other infectious diseases, control of tobacco and other hazardous products, bioterrorism, and the threats TO CIVIL LIBERTIES AND MINORITY GROUPS engendered by all such legal efforts. This course is highly recommended for all students enrolled in the J.D./M.P.H. dual degree program, but is open to other students as well.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30437"
+    },
+    {
+      "specialTopics": false,
+      "name": "Natural Resources Law",
+      "courseNumber": "7514",
+      "subject": "LAW",
+      "description": "This course addresses legal requirements and institutions dealing with animal and plant species, biological resources, habitats, and ecosystems. Major themes include biological diversity, endangered and threatened species, public and private rights in migratory resources, public trust doctrine, the allocation of power among federal, state, and local governments, and the roles of administrative agencies in ecosystem management. The course provides opportunities to explore specific topics of interest such as environmental ethics, wetlands protection, fisheries law, Native American hunting rights and fishing rights, and management of national parks, forests, and grazing lands.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30438"
+    },
+    {
+      "specialTopics": false,
+      "name": "Legal Writing Workshop",
+      "courseNumber": "7516",
+      "subject": "LAW",
+      "description": "This course is for students who wish to strengthen their writing and analytic skills. The first part of the course will focus on objective writing. Students will work on an office memorandum analyzing a statute and case law. The classes will focus on large scale organization, small scale organization, case analysis, and revising your own work. The second part of the course will focus on persuasive writing and research. Students will research and draft an appellate brief based on a constitutional issue, paying particular attention to persuasive writing techniques. The appellate brief will fulfill the upper level writing requirement. The entire course will focus on writing concisely, using citations accurately, and other skills essential to effective legal writing.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30333"
+    },
+    {
+      "specialTopics": false,
+      "name": "Juvenile Courts: Delinquency, Abuse, Neglect",
+      "courseNumber": "7526",
+      "subject": "LAW",
+      "description": "Examines the evolution of the juvenile court system and issues related to juvenile justice and child welfare. Includes the study of procedural and substantive principles related to court subject matter, including delinquency, youthful offender, status offense, and abuse and neglect jurisdiction. In attempting to focus on connecting theory to practice, the class employs a contextual lens by considering the larger communities and systems that affect children, families, and public safety. This entails consideration of the consequences of decisions and policies in and out of courtrooms. Related topics include adolescent development; racial, ethnic, and gender equity; access to educational and mental health services; and public health.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30439"
+    },
+    {
+      "specialTopics": false,
+      "name": "Education Law",
+      "courseNumber": "7530",
+      "subject": "LAW",
+      "description": "Surveys current issues in U.S. education law. Topics may include high-stakes testing, school choice and the charter school movement, resegregation, special education, the school-to-prison pipeline, and school funding.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30440"
+    },
+    {
+      "specialTopics": false,
+      "name": "Legal Interviewing & Counseling",
+      "courseNumber": "7535",
+      "subject": "LAW",
+      "description": "Students in this course will study the principles of interviewing and counseling, learning how to interview clients to identify their legal problems and to gather information on which solutions to those problems can be based. Students will also practice interviewing witnesses and students will be taught how to counsel clients—a process by which, having determined what the client’s legal problems are, the lawyer helps clients make decisions by identifying potential strategies and solutions and their likely positive and negative consequences. Students will practice specific interviewing and counseling techniques and have the opportunity to receive feedback from classmates and the instructor.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30338"
+    },
+    {
+      "specialTopics": false,
+      "name": "Employment Law—Compensation, Benefits, and Retirement",
+      "courseNumber": "7540",
+      "subject": "LAW",
+      "description": "This course surveys legal, economic, and social policy issues concerning wages and working time, leave, unemployment insurance, and retirement income.  The course provides detailed coverage of the Fair Labor Standards Act (FLSA), the Family & Medical Leave Act (FMLA), and the Unemployment Insurance program, and also provides introductions to retirement and survivor income under the Social Security Act and to pension regulation under the Employee Retirement Income Security Act (ERISA).  The problems of low-wage workers and women workers receive special emphasis, as well as tensions between the design of the older, statutory schemes and contemporary trends in business and work organization.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30442"
+    },
+    {
+      "specialTopics": false,
+      "name": "Refugee and Asylum Law",
+      "courseNumber": "7550",
+      "subject": "LAW",
+      "description": "This course will explore the law of asylum and refugees. The primary focus will be on U.S. law as it has evolved since passage of the Refugee Act of 1980. This will include legislation and case law—both administrative and federal court cases. It will also look at relevant international law and standards utilized in other countries by way of comparison with U.S. Law. We will also examine the process of asylum adjudications to analyze issues of due process, credibility, cross cultural communication and integrity of the various legal procedures. We will explore new and emerging theories of asylum eligibility and policy developments which impact asylum seekers in the United States.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {
+        "type": "and",
+        "items": [
+          {
+            "subject": "LAW",
+            "courseNumber": "7657"
+          }
+        ]
+      },
+      "crn": "30443"
+    },
+    {
+      "specialTopics": false,
+      "name": "International Investment Arbitration and Litigation Practice",
+      "courseNumber": "7554",
+      "subject": "LAW",
+      "description": "This course will blend the study of Investor-State International Arbitration with mock arbitration exercises. The subject of Investor-State disputes and their resolution lies at the cutting edge of international law. Topics that will be covered in this course are (1) the substantive law of investment arbitration; and (2) elements of procedure that characterize investor-state arbitration including tribunal composition, jurisdiction, evidence, and annulment. At the same time, students will put their knowledge into practice by participating in a series of mock arbitration hearings brought by a foreign investor against a State before the International Centre for the Settlement of Investment Disputes (ICSID). Active participation in oral advocacy exercises is required. The course grade will be a function of those exercises and class participation.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30444"
+    },
+    {
+      "specialTopics": false,
+      "name": "Private Litigation in the Public Interest",
+      "courseNumber": "7561",
+      "subject": "LAW",
+      "description": "How can lawyers working in the “private” arena influence public policy? This course looks at tort-based litigation that impacts tobacco control, climate change, and other policy arenas. It considers the financial consequences of “mass torts”, class actions and punitive damages on plaintiffs’ attorneys as well as on defendants, and examines doctrinal, ethical and practical issues raised by the effort to use civil remedies to achieve social change.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30445"
+    },
+    {
+      "specialTopics": false,
+      "name": "Transactional Drafting Seminar",
+      "courseNumber": "7572",
+      "subject": "LAW",
+      "description": "This seminar will help students improve their writing in the context of transactional legal documents.  The seminar will help students: adopt tools to achieve clear and concise writing;  understand the purpose of each element of a contract and adopt the language that most clearly accomplishes that purpose; draft the operative provisions of a contract to express the agreement of the parties; and create an ¿architecture¿ for a contract to make individual provisions work together in a cohesive document.  The seminar will address concepts applicable to a wide range of transactional legal documents, with emphasis on drafting in the context of corporate transactions, including employment issues, shareholders¿ rights, and mergers and acquisitions.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30334"
+    },
+    {
+      "specialTopics": false,
+      "name": "Elder Law",
+      "courseNumber": "7582",
+      "subject": "LAW",
+      "description": "In this course we will look at legal and policy questions related to aging individuals. Older Americans face an increasing number of legal questions involving entitlement to public benefits, protection of property, utilization of medical resources, healthcare decision-making, and interaction with legal and financial institutions. Topics that will be covered will include Medicaid benefits, Medicare benefits, Veterans Benefits for elderly veterans and their spouses, age discrimination, nursing home institutionalization, income maintenance (social security benefits, pensions etc.), elder abuse, consumer fraud targeted at older consumers, guardianships, conservatorships, competency and capacity, alternatives to guardianships and conservatorships, end of life issues, tax issues in elder law and estate planning for elders. Ethical issues that arise when representing the elderly will also be discussed.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30446"
+    },
+    {
+      "specialTopics": false,
+      "name": "Copyright Law",
+      "courseNumber": "7590",
+      "subject": "LAW",
+      "description": "This course examines the law of copyright in the United States, with some reference to international aspects. We will discuss the scope of copyright protection, the formalities of securing copyright, the nature of the rights afforded by copyright law, the fair use doctrine, and copyright enforcement. The course will place copyright in historical perspective, and consider tensions created by emerging industries. The course is open to upper level students, without prerequisite.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30447"
+    },
+    {
+      "specialTopics": false,
+      "name": "Pretrial Civil Practice and Advocacy",
+      "courseNumber": "7599",
+      "subject": "LAW",
+      "description": "This course provides the foundation to manage the pretrial phase of a civil action.  Each class will consist of a lecture concerning an aspect of pretrial practice, followed by student conducted pretrial advocacy.  Using model civil cases, the students will engage in most types of pretrial practice, including an initial client interview and basic legal analysis to evaluate and assert potential legal claims and defenses, witness selection and preparation, deposition and written discovery practice, dispositive motions, pretrial memoranda and settlement positions.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30448"
+    },
+    {
+      "specialTopics": false,
+      "name": "Community Business Law Clinic",
+      "courseNumber": "7610",
+      "subject": "LAW",
+      "description": "Offers a unique opportunity to develop lawyering skills through the real-world experience of helping low-income and underserved entrepreneurs achieve their transactional goals and supporting community-led growth. Students, prepared and supported by an intensive seminar and close faculty supervision, assume the role of lawyers for their clients and their clients’ community businesses on the often-complex legal issues that startups, entrepreneurs and small businesses face.",
+      "maxCredits": 6,
+      "minCredits": 6,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {
+        "subject": "LAW",
+        "courseNumber": "7323"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30413"
+    },
+    {
+      "specialTopics": false,
+      "name": "Law Practice Management:  Access to Justice",
+      "courseNumber": "7614",
+      "subject": "LAW",
+      "description": "This course challenges conventional law practice management by exploring means of methods of filling the market gap in the provision of legal services to middle class clients.  Students will investigate and document ways to use improved marketing techniques, staffing patterns, technological innovations and a variety of other tools to provide legal services to underserved portions of the market in a sustainable and economically viable fashion.  Students will conduct independent research to develop a law firm business plan; exploring a practice area of particular interest to them.  This course is not solely geared toward the entrepreneurial attorney, but rather will assist anyone in the development of skills to bridge-the-gap between their theoretical education and its practical application to the practice of law.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30335"
+    },
+    {
+      "specialTopics": false,
+      "name": "Whistleblower Law",
+      "courseNumber": "7622",
+      "subject": "LAW",
+      "description": "This course provides an introduction to the legal issues related to whistleblowing, a dynamic new area in employment, corporate compliance, and anti-fraud law.  It focuses on tort-like remedies and monetary rewards available to whistleblowers under the Dodd-Frank, Sarbanes-Oxley, Foreign Corrupt Practices and False Claims Acts, along with protections under tax law, the First Amendment, and common law. There will be a final exam and a short paper (approximately 2 pages in length).",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30449"
+    },
+    {
+      "specialTopics": false,
+      "name": "Advanced Legal and Interdisciplinary Research",
+      "courseNumber": "7624",
+      "subject": "LAW",
+      "description": "This course teaches students how to research specialized legal topics, highlighting both legal and nonlegal sources that reflect modern practice. The course will use a combination of lectures, interactive hands-on sessions, real life examples, and an in-depth final research and writing project. Students may explore state, federal and international primary laws and regulations, as well as relevant nonlegal sources and how they interact with the law. Both print and electronic sources will be researched. The course will highlight different specialized topics such as health law, environmental law, etc.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30450"
+    },
+    {
+      "specialTopics": false,
+      "name": "IP CO-LAB Clinic",
+      "courseNumber": "7633",
+      "subject": "LAW",
+      "description": "The clinic requires students to devote at least twenty hours per week to providing IP-related legal services to students, ventures and other participants in the university’s entrepreneurship and innovation eco-system under the supervision of clinical faculty and staff. The clinic includes opportunities to address issues related to IP rights, risks and transactions for individuals and ventures in the university community, to collaborate with faculty and others on IP learning modules, policies, presentations or workshops for this community, to develop practice skills, and to participate in organization and operation of a legal services office. Intellectual Property LAW 7369 is a prerequisite. Enrollment is limited to 6; preference given to students with other relevant courses or practical experience.",
+      "maxCredits": 6,
+      "minCredits": 6,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {
+        "subject": "LAW",
+        "courseNumber": "7369"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30336"
+    },
+    {
+      "specialTopics": false,
+      "name": "Energy Law and Policy",
+      "courseNumber": "7634",
+      "subject": "LAW",
+      "description": "Climate change and carbon emissions are the most important issues shaping energy law and policy in the United States today. This course will provide an introduction to U.S. energy law and policy in that context and will be organized around the regulated electricity sector which alone produces about 40% of all U.S. greenhouse gas emissions. We will explore the dynamics of natural monopoly markets, public utilities and their regulation, and the interplay of state and federal power in the energy space. We examine coal, natural gas, nuclear power, hydropower, renewables, storage, and efficiency for their impacts and potential as electrical energy sources in a carbon-constrained world. We conclude by investigating the legal potential to proactively foster and sustain a transition to a carbon-sustainable energy economy.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30451"
+    },
+    {
+      "specialTopics": false,
+      "name": "Laboratory Seminar in Applied Design and Legal Empowerment",
+      "courseNumber": "7635",
+      "subject": "LAW",
+      "description": "This limited enrollment seminar explores the use of design principles in the development of new models for delivering legal information and services. Problem-solving methodologies derived from the fields of product and systems design are being successfully applied in many disciplines, including the law. These methods will be critically examined and applied by students within the context of NuLawLab community projects. Students will join multidisciplinary teams working with communities to collaboratively design responsive solutions to unmet legal needs, using the technological advances currently transforming the legal profession and our larger society. The seminar emphasizes hands-on student engagement with community clients, field observations, and teamwork in partnership with a diversity of other disciplines. Students will be assessed based on contributions to project work, including class discussions.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30452"
+    },
+    {
+      "specialTopics": false,
+      "name": "Trial Practice",
+      "courseNumber": "7647",
+      "subject": "LAW",
+      "description": "An introduction to the tactical and strategic problems commonly encountered in the trial of civil and criminal cases is the main objective of this course. Attention is given to the forensic aspects of trial practice, techniques of direct and cross-examination, and opening and closing summations. Prior course work in Evidence is a prerequisite.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {
+        "subject": "LAW",
+        "courseNumber": "7332"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30340"
+    },
+    {
+      "specialTopics": false,
+      "name": "Strategies for Bar Success",
+      "courseNumber": "7652",
+      "subject": "LAW",
+      "description": "This course eases students into bar exam preparation by focusing on contextualized substantive review of the most heavily tested topics on the bar. It overlays skill instruction on reading comprehension, issue identification, rule mastery, critical thinking, legal analysis and recognition of distractor skills. Students gain a strong conceptual understanding and in-depth knowledge of highly tested doctrines across two MBE subjects and will be taught how to develop, use and apply a flexible but strong analytical framework to solve bar exam problems. Limited to third-year law students.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30342"
+    },
+    {
+      "specialTopics": false,
+      "name": "Immigrant Justice Clinic",
+      "courseNumber": "7657",
+      "subject": "LAW",
+      "description": "Law students, under the supervision of clinical faculty and staff, will devote 20 hours per week to providing legal services to non-citizen clients. Students are expected to interview, research, plan, investigate, write, counsel, negotiate, and advocate for their clients. Students will be exposed to cross-cultural legal practice and working with interpreters. The types of cases handled may include applications for Asylum, U-visas, T-visas, and other forms of relief. The skills students are expected to learn in this course are transferable to any civil or criminal practice after law school. Enrollment is limited, and preference will be given to students with relevant course or practical experience and fluency in Spanish. Students must take Immigration Law or Refugee and Asylum Law prior to taking the clinic.",
+      "maxCredits": 6,
+      "minCredits": 6,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {
+        "type": "or",
+        "items": [
+          {
+            "subject": "LAW",
+            "courseNumber": "7336"
+          },
+          {
+            "subject": "LAW",
+            "courseNumber": "7550"
+          }
+        ]
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30343"
+    },
+    {
+      "specialTopics": false,
+      "name": "Disrupt the Cradle-to-Prison Pipeline—Restorative Justice",
+      "courseNumber": "7660",
+      "subject": "LAW",
+      "description": "This course examines how we construct the cradle/school to prison pipeline while focusing on several pivotal points that channel largely poor Black and Brown students into it. With an eye toward practical application, students will learn about, critique, problem solve and create pipeline disrupting solutions looking to restorative justice as a time-honored justice paradigm alternative to our western constructions.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30453"
+    },
+    {
+      "specialTopics": false,
+      "name": "Data Privacy Compliance in the 21st Century",
+      "courseNumber": "7672",
+      "subject": "LAW",
+      "description": "Introduces the tools needed to navigate the complex world of data privacy regulation. By following the growth of a hypothetical startup company as it confronts new data privacy and security issues, offers students an opportunity to evaluate the principles grounding data privacy regulations around the world; examine emerging data privacy legal regimes of various countries; and consider privacy laws, why they matter, and what compliance concerns they raise. Encompasses privacy and security issues involved in regulatory compliance, data breach response, government and internal investigations, litigation, and mergers and acquisitions. Also considers special circumstances of cross-border litigation and transactions, the special problems raised by supply chains and corporate social responsibility, and emerging concerns arising from big data and increasingly sophisticated artificial intelligence.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30454"
+    },
+    {
+      "specialTopics": false,
+      "name": "Information Privacy Law",
+      "courseNumber": "7675",
+      "subject": "LAW",
+      "description": "Information privacy law concerns the collection, use, and disclosure of personal information. This course will address the interrelated web of torts, statutes, crimes, contracts, property rules, administrative regulations, procedural rules, and constitutional provisions that implicate information privacy. Topics covered in this course include: the difficulty in conceptualizing privacy, justifications for protecting privacy, privacy and the press, conflicts between privacy and free speech, wiretapping and government surveillance, national and international data protection frameworks, privacy and social media, anonymity, and the rules for cross-border data flows.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30455"
+    },
+    {
+      "specialTopics": false,
+      "name": "Legal Research Workshop",
+      "courseNumber": "7678",
+      "subject": "LAW",
+      "description": "Designed to assist students in developing and executing research plans for writing projects. Requires students to identify an appropriate project early in the course; the project may be one that the student creates specifically for the course, or it could be one undertaken for a law review note, a seminar, or an independent study in which the student is concurrently enrolled. Includes readings, lectures, demonstrations, and in-class and homework exercises, as well as peer and instructor feedback focused on research strategies. Requires students to periodically present their research strategies and results for their writing projects.",
+      "maxCredits": 1,
+      "minCredits": 1,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {
+        "type": "and",
+        "items": [
+          {
+            "subject": "LAW",
+            "courseNumber": "7933"
+          }
+        ]
+      },
+      "crn": "30456"
+    },
+    {
+      "specialTopics": false,
+      "name": "Anatomy of Autonomy",
+      "courseNumber": "7684",
+      "subject": "LAW",
+      "description": "Examines what it means to be a person in the eyes of the law and the rhetorical framing that infuses our conception of living subjects, legal persons, nonpersons, and things. The line between human and subhuman, or person and thing, is given new urgency when limits of incarceration, torture, human trafficking, medical experimentation, and right to due process turn on new meanings of words like enemy combatant, IQ, underclass, market choice, race, terror, or illegal immigration. Who we consider a person, who we label less than fully endowed, are questions that inform some of the most urgent legal and political questions of our time. Explores legal opinions; historical documents; and texts in philosophy, anthropology, linguistics, literary criticism, and popular culture.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30457"
+    },
+    {
+      "specialTopics": false,
+      "name": "Public Service Externship Seminar",
+      "courseNumber": "7932",
+      "subject": "LAW",
+      "description": "Requires structured reflection of the student’s individual experiences, organization, the social context of our changing profession, and acquisition of proficiency in oral communication, such as oral presentations and the utilization of interdisciplinary insights into legal problem solving. This course is designed for students who are completing a part-time field placement with a not-for-profit organization or in a governmental legal setting.",
+      "maxCredits": 1,
+      "minCredits": 1,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {
+        "subject": "LAW",
+        "courseNumber": "7939"
+      },
+      "postreqs": {},
+      "crn": "30458"
+    },
+    {
+      "specialTopics": false,
+      "name": "Law Review - Note Development",
+      "courseNumber": "7933",
+      "subject": "LAW",
+      "description": "The Northeastern University Law Review publishes legal scholarship in its flagship print journal and online platforms. In addition to performing standard staff duties, a staff member may elect to register to develop a student note. Notes shall meet the standards of the upper-level rigorous writing requirement and be of publishable quality, analyzing an original legal issue. Note writers work under supervision of the managing editor and faculty advisor to write and revise an idea developed in LAW 7678 or another setting. Top student Notes may be selected for publication.",
+      "maxCredits": 1,
+      "minCredits": 1,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {
+        "subject": "LAW",
+        "courseNumber": "7678"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30459"
+    },
+    {
+      "specialTopics": false,
+      "name": "Public Service Externship",
+      "courseNumber": "7939",
+      "subject": "LAW",
+      "description": "Offers students an opportunity to complete a field placement with a not-for-profit organization or in a governmental legal setting. For each credit earned, a student must complete 52 hours of fieldwork under the supervision of an attorney at the fieldwork placement. Fieldwork may assist students in developing skills related to research and writing on legal and policy matters, preparation of written and oral presentations, client interviewing and advocacy, and litigation preparation. The number of credits allowed is determined based on the student’s additional course load, organizational expectations of the participating agency, and the number of non-classroom credits available to the student.",
+      "maxCredits": 4,
+      "minCredits": 1,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {
+        "subject": "LAW",
+        "courseNumber": "7932"
+      },
+      "postreqs": {},
+      "crn": "30460"
+    },
+    {
+      "specialTopics": false,
+      "name": "Special Topics in Law",
+      "courseNumber": "7983",
+      "subject": "LAW",
+      "description": "Covers special topics in law. May be repeated without limit.\r\n    \r\n    \r\n        Section information text:\r\n        This is a pilot experiential interdisciplinary course offered through a partnership between the Civil Rights and Restorative Justice Project (CRRJ) at the School of Law, and the School of Journalism. Students will produce podcasts on racially-motivated homicides, including lynchings and police killings, in the Jim Crow South from 1930-1970, drawn from cases from the CRRJ Burnham-Nobles Archive. They will learn the law applicable to racially-motivated violence, further the investigative work already done by CRRJ in investigating the killings, and produce podcasts that tell the factual, legal and human narratives based on selected cases from the archive. Working in groups, students will research the factual and legal issues presented by the podcast cases, identify and interview sources, learn how to write “for the ear”, and put together stories that include original audio interviews, archived sound and news clips, in order to craft a persuasive argument.  In addition to the weekly class meeting and readings, students will be expected to spend at least 5 hours per week working on case research and podcast production.",
+      "maxCredits": 4,
+      "minCredits": 1,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "30461"
+    }
+  ],
+  "sections": {
+    "INPR9100": [
+      {
+        "crn": "30423",
+        "name": "Research-Visiting Student",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 1,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Individual Instruction",
+        "honors": false,
+        "campus": "No campus, no room needed",
+        "meetingTimes": [],
+        "faculty": [],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6315": [
+      {
+        "crn": "30426",
+        "name": "Legal Research and Writing for LLM Students: Preparing for Co-op",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 20,
+        "seatRemaining": 15,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2
+            ],
+            "startTime": 1800,
+            "endTime": 2100,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Smith, Amy",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7300": [
+      {
+        "crn": "30395",
+        "name": "Administrative Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 80,
+        "seatRemaining": 40,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1350,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Rosenbloom, Rachel",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7320": [
+      {
+        "crn": "30427",
+        "name": "Constitutional Litigation",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 12,
+        "seatRemaining": 1,
+        "waitlistCapacity": 30,
+        "waitlistRemaining": 30,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              4
+            ],
+            "startTime": 850,
+            "endTime": 1150,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Meltsner, Michael",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7324": [
+      {
+        "crn": "30428",
+        "name": "Securities Regulation",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 40,
+        "seatRemaining": 10,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1800,
+            "endTime": 1930,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Forni, Eric",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Heining, Eric",
+            "email": null,
+            "primary": false
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7332": [
+      {
+        "crn": "30330",
+        "name": "Evidence",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 75,
+        "seatRemaining": 63,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1525,
+            "endTime": 1725,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Tumposky, Michael",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7350": [
+      {
+        "crn": "30331",
+        "name": "Negotiation",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 0,
+        "waitlistCapacity": 40,
+        "waitlistRemaining": 40,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              4
+            ],
+            "startTime": 1200,
+            "endTime": 1500,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Effron, Dawn",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7362": [
+      {
+        "crn": "30341",
+        "name": "Poverty Law and Practice Clinic",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 6,
+        "seatRemaining": 0,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1540,
+            "endTime": 1740,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Mallory, Carol",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Havens, Jill",
+            "email": null,
+            "primary": false
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7400": [
+      {
+        "crn": "30429",
+        "name": "Corporate Taxation",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 30,
+        "seatRemaining": 20,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1550,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Polito, Anthony",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7410": [
+      {
+        "crn": "30401",
+        "name": "Domestic Violence Clinic",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 8,
+        "seatRemaining": 0,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2
+            ],
+            "startTime": 1540,
+            "endTime": 1740,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Lindauer, Margo",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7429": [
+      {
+        "crn": "30430",
+        "name": "Labor Law 2",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 30,
+        "seatRemaining": 21,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Klare, Karl",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7434": [
+      {
+        "crn": "30431",
+        "name": "Secured Transactions",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 17,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Phillips, David",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7443": [
+      {
+        "crn": "30332",
+        "name": "Professional Responsibility",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 75,
+        "seatRemaining": 47,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Zoltek-Jick, Rose",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7449": [
+      {
+        "crn": "30432",
+        "name": "Alternative Dispute Resolution",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 6,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 900,
+            "endTime": 1200,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Effron, Dawn",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7463": [
+      {
+        "crn": "30433",
+        "name": "Non-Profit Organizations",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 40,
+        "seatRemaining": 32,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2
+            ],
+            "startTime": 1800,
+            "endTime": 2100,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Lincoln, Sharon",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7475": [
+      {
+        "crn": "30434",
+        "name": "First Amendment",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 25,
+        "waitlistCapacity": 25,
+        "waitlistRemaining": 25,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1015,
+            "endTime": 1145,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Meltsner, Michael",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7496": [
+      {
+        "crn": "30435",
+        "name": "Appellate Practice",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 12,
+        "seatRemaining": 0,
+        "waitlistCapacity": 30,
+        "waitlistRemaining": 30,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              5
+            ],
+            "startTime": 900,
+            "endTime": 1200,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Spieler, Emily",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7503": [
+      {
+        "crn": "30436",
+        "name": "Business Bankruptcy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 30,
+        "seatRemaining": 12,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1600,
+            "endTime": 1730,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Berman, Mark",
+            "email": "1mberman@comcast.net",
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7512": [
+      {
+        "crn": "30437",
+        "name": "Problems in Public Health Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 20,
+        "seatRemaining": 10,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Sinha, Michael",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7514": [
+      {
+        "crn": "30438",
+        "name": "Natural Resources Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 30,
+        "seatRemaining": 13,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 830,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Govern, Heather",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7516": [
+      {
+        "crn": "30333",
+        "name": "Legal Writing Workshop",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 14,
+        "seatRemaining": 0,
+        "waitlistCapacity": 50,
+        "waitlistRemaining": 50,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              4
+            ],
+            "startTime": 1600,
+            "endTime": 1900,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Courtney, Kyle",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7526": [
+      {
+        "crn": "30439",
+        "name": "Juvenile Courts: Delinquency, Abuse, Neglect",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 31,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1015,
+            "endTime": 1145,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Blitzman, Jay",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7530": [
+      {
+        "crn": "30440",
+        "name": "Education Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 30,
+        "seatRemaining": 18,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1800,
+            "endTime": 1930,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Cregor, Matthew",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7535": [
+      {
+        "crn": "30338",
+        "name": "Legal Interviewing &amp; Counseling",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 20,
+        "seatRemaining": 3,
+        "waitlistCapacity": 30,
+        "waitlistRemaining": 30,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1015,
+            "endTime": 1145,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Drew, Melinda",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7540": [
+      {
+        "crn": "30442",
+        "name": "Employment Law&mdash;Compensation, Benefits, and Retirement",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 17,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1200,
+            "endTime": 1330,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Klare, Karl",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7550": [
+      {
+        "crn": "30443",
+        "name": "Refugee and Asylum Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 27,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1600,
+            "endTime": 1730,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Rosenbloom, Rachel",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7554": [
+      {
+        "crn": "30444",
+        "name": "International Investment Arbitration and Litigation Practice",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 14,
+        "seatRemaining": 11,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1
+            ],
+            "startTime": 1500,
+            "endTime": 1800,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Gilley, Ellen",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Sainati, Tatiana",
+            "email": null,
+            "primary": false
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7561": [
+      {
+        "crn": "30445",
+        "name": "Private Litigation in the Public Interest",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 30,
+        "seatRemaining": 25,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1200,
+            "endTime": 1330,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Daynard, Richard",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7572": [
+      {
+        "crn": "30334",
+        "name": "Transactional Drafting Seminar",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 12,
+        "seatRemaining": 1,
+        "waitlistCapacity": 60,
+        "waitlistRemaining": 60,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2
+            ],
+            "startTime": 1030,
+            "endTime": 1330,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Scott, Amy",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7582": [
+      {
+        "crn": "30446",
+        "name": "Elder Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 40,
+        "seatRemaining": 32,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1350,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Campia, Peter",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7590": [
+      {
+        "crn": "30447",
+        "name": "Copyright Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 40,
+        "seatRemaining": 12,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 830,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Herlihy, David",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7599": [
+      {
+        "crn": "30448",
+        "name": "Pretrial Civil Practice and Advocacy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 12,
+        "seatRemaining": 1,
+        "waitlistCapacity": 30,
+        "waitlistRemaining": 30,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1600,
+            "endTime": 1800,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Leifer, Neil",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Steinberg, Carol",
+            "email": null,
+            "primary": false
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7610": [
+      {
+        "crn": "30413",
+        "name": "Community Business Law Clinic",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 6,
+        "seatRemaining": 0,
+        "waitlistCapacity": 30,
+        "waitlistRemaining": 30,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Nicholson, Jared",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7614": [
+      {
+        "crn": "30335",
+        "name": "Law Practice Management:  Access to Justice",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 20,
+        "seatRemaining": 12,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2
+            ],
+            "startTime": 800,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Lingos, Sofia",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7622": [
+      {
+        "crn": "30449",
+        "name": "Whistleblower Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 6,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1
+            ],
+            "startTime": 1600,
+            "endTime": 1800,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Nelson, Siri",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Kohn, Stephen",
+            "email": null,
+            "primary": false
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7624": [
+      {
+        "crn": "30450",
+        "name": "Advanced Legal and Interdisciplinary Research",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 20,
+        "seatRemaining": 10,
+        "waitlistCapacity": 30,
+        "waitlistRemaining": 30,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              5
+            ],
+            "startTime": 900,
+            "endTime": 1100,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Eastland, Craig",
+            "email": "craig.eastland@gmail.com",
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7633": [
+      {
+        "crn": "30336",
+        "name": "IP CO-LAB Clinic",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 6,
+        "seatRemaining": 0,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1600,
+            "endTime": 1800,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Jacoby, Bruce",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7634": [
+      {
+        "crn": "30451",
+        "name": "Energy Law and Policy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 30,
+        "seatRemaining": 18,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 830,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "James, Mark",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7635": [
+      {
+        "crn": "30452",
+        "name": "Laboratory Seminar in Applied Design and Legal Empowerment",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 8,
+        "seatRemaining": 2,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1810,
+            "endTime": 2110,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Jackson, Daniel",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Sievert, Julie",
+            "email": "sievert.j@northeastern.edu",
+            "primary": false
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7647": [
+      {
+        "crn": "30340",
+        "name": "Trial Practice",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 5,
+        "waitlistCapacity": 40,
+        "waitlistRemaining": 40,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1810,
+            "endTime": 2010,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Keating, Michael",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7652": [
+      {
+        "crn": "30342",
+        "name": "Strategies for Bar Success",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 100,
+        "seatRemaining": 11,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1
+            ],
+            "startTime": 1810,
+            "endTime": 2010,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Kukas, Kandace",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7657": [
+      {
+        "crn": "30343",
+        "name": "Immigrant Justice Clinic",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 6,
+        "seatRemaining": 1,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1540,
+            "endTime": 1740,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Gundavaram, Hemanth",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7660": [
+      {
+        "crn": "30453",
+        "name": "Disrupt the Cradle-to-Prison Pipeline&amp;#8212;Restorative Justice",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 7,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1015,
+            "endTime": 1145,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Mangiafico, Santina",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7672": [
+      {
+        "crn": "30454",
+        "name": "Data Privacy Compliance in the 21st Century",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 10,
+        "waitlistCapacity": 30,
+        "waitlistRemaining": 30,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Hart, Christopher",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7675": [
+      {
+        "crn": "30455",
+        "name": "Information Privacy Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 75,
+        "seatRemaining": 27,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 1350,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hartzog, Woodrow",
+            "email": "whartzog@samford.edu",
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7678": [
+      {
+        "crn": "30456",
+        "name": "Legal Research Workshop",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 20,
+        "seatRemaining": 5,
+        "waitlistCapacity": 20,
+        "waitlistRemaining": 20,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1
+            ],
+            "startTime": 900,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Akehurst-Moore, Scott",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7684": [
+      {
+        "crn": "30457",
+        "name": "Anatomy of Autonomy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 15,
+        "seatRemaining": 2,
+        "waitlistCapacity": 50,
+        "waitlistRemaining": 50,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Williams, Patricia",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7932": [
+      {
+        "crn": "30458",
+        "name": "Public Service Externship Seminar",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 4,
+        "seatRemaining": 0,
+        "waitlistCapacity": 10,
+        "waitlistRemaining": 10,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1815,
+            "endTime": 1930,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Goncalves, Dulcineia",
+            "email": "duci.goncalves@gmail.com",
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7933": [
+      {
+        "crn": "30459",
+        "name": "Law Review - Note Development",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 20,
+        "seatRemaining": 14,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              5
+            ],
+            "startTime": 1100,
+            "endTime": 1200,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Persons, Sharon",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "30462",
+        "name": "Law Review - Note Development",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 15,
+        "seatRemaining": 9,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1430,
+            "endTime": 1530,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Persons, Sharon",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7939": [
+      {
+        "crn": "30460",
+        "name": "Public Service Externship",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 4,
+        "seatRemaining": 0,
+        "waitlistCapacity": 6,
+        "waitlistRemaining": 6,
+        "classType": "Off-campus instruction",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Goncalves, Dulcineia",
+            "email": "duci.goncalves@gmail.com",
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7983": [
+      {
+        "crn": "30461",
+        "name": "CRRJ Podcast Course",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 5,
+        "seatRemaining": 0,
+        "waitlistCapacity": 10,
+        "waitlistRemaining": 10,
+        "classType": "Seminar",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              4
+            ],
+            "startTime": 1715,
+            "endTime": 2015,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Sandson, Katherine",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "code": "GNFT",
+      "name": "Full-time status"
+    },
+    {
+      "code": "GNNC",
+      "name": "Do not publish in catalog"
+    },
+    {
+      "code": "GNNE",
+      "name": "No Course Evaluation"
+    },
+    {
+      "code": "LB01",
+      "name": "Law Billing"
+    },
+    {
+      "code": "ZG75",
+      "name": "Cargill Hall Law Door Access"
+    }
+  ],
+  "subjects": [
+    {
+      "code": "INPR",
+      "description": "Interdisc Studies - Provost"
+    },
+    {
+      "code": "LAW",
+      "description": "Law"
+    }
+  ],
+  "campuses": [
+    {
+      "code": "?",
+      "name": "No campus, no room needed"
+    },
+    {
+      "code": "BOS",
+      "name": "Boston"
+    },
+    {
+      "code": "?",
+      "name": "Online"
+    }
+  ],
+  "buildings": [
+    {
+      "code": "BOS",
+      "name": "Boston",
+      "campus": "BOS"
+    }
+  ],
+  "rooms": [
+    {
+      "code": "DEPT",
+      "building": "BOS",
+      "campus": "BOS"
+    }
+  ]
+}

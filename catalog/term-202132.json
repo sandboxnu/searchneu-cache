@@ -1,0 +1,2565 @@
+{
+  "version": 3,
+  "timestamp": "2025-12-21T06:20:14.324Z",
+  "term": {
+    "code": "202132",
+    "description": "Spring 2021 Law Semester (View Only)"
+  },
+  "courses": [
+    {
+      "specialTopics": false,
+      "name": "Constitutional Law",
+      "courseNumber": "6101",
+      "subject": "LAW",
+      "description": "Studies the techniques of constitutional interpretation and some of the principal themes of constitutional law: federalism, separation of powers, public vs. private spheres, equality theory and rights analysis. The first part of the course is about the powers of government. The second part is an in-depth analysis of the 14th Amendment.",
+      "maxCredits": 4,
+      "minCredits": 4,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70001"
+    },
+    {
+      "specialTopics": false,
+      "name": "Contracts",
+      "courseNumber": "6102",
+      "subject": "LAW",
+      "description": "This course examines the legal concepts governing consensual and promissory relationships, with emphasis on the historical development and institutional implementation of contract theory, its relationship and continuing adaptation to the needs and practice of commerce, and its serviceability in a variety of non-commercial contexts. Topics covered include contract formation, the doctrine of consideration, remedies for breach of contracts, modification of contract rights resulting from such factors as fraud, mistake and unforeseen circumstances, and the modern adaptation of contract law to consumer problems. This course also introduces students to the analysis of a complex statute: the Uniform Commercial Code.",
+      "maxCredits": 5,
+      "minCredits": 5,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70004"
+    },
+    {
+      "specialTopics": false,
+      "name": "Criminal Justice",
+      "courseNumber": "6103",
+      "subject": "LAW",
+      "description": "In this course, students are introduced to the fundamental principles that guide the development, interpretation and analysis of the law of crimes. They are also exposed to the statutory texts—primarily the Model Penal Code, but also state statutes. In addition, students are introduced to the rules and principles used to apportion blame and responsibility in the criminal justice system. Finally, students examine the limits and potential of law as an instrument of social control.",
+      "maxCredits": 4,
+      "minCredits": 4,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70007"
+    },
+    {
+      "specialTopics": false,
+      "name": "Legal Skills in Social Context",
+      "courseNumber": "6160",
+      "subject": "LAW",
+      "description": "The LSSC Social Justice component immediately applies students’ legal research and writing skills in using law as a tool for social change. LSSC links students’ pre-law school thinking with the new legal culture in which they find themselves. In the first semester, they begin by forging their own team lawyering dynamic in discussing assigned readings and in preparing, and presenting, several advocacy exercises and written assignments. In the second semester, students apply and consolidate their new legal research and writing skills in addressing an intensive real-life social justice project for a selected client organization. LSSC student teams develop their legal and cooperative problem-solving skills and knowledge while producing real client work of a quality that far exceeds the ordinary expectations of first-year law students. May be repeated once.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70010"
+    },
+    {
+      "specialTopics": false,
+      "name": "LSSC: Legal Research and Writing Component",
+      "courseNumber": "6165",
+      "subject": "LAW",
+      "description": "Competent and effective legal research and writing skills are the foundation for students’ success in law school and in their legal careers. In LSSC’s Legal Analysis, Research and Writing component, students learn about the organization of the American legal system, the sources and construction of laws, and how the application of laws may vary with the specific factual situation. Students learn how to research the law to find applicable legal rules, how to analyze and apply those rules to a factual situation, and how to communicate their legal analysis clearly and concisely to different audiences.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01",
+        "ZG75"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70024"
+    },
+    {
+      "specialTopics": false,
+      "name": "Introduction to U.S. Law and Legal System",
+      "courseNumber": "6400",
+      "subject": "LAW",
+      "description": "Introduces principles and structures of the legal system in the United States. Covers the U.S. system of government, the U.S. judicial systems at the federal and state levels, U.S. sources of law, common law methodology, and the roles of legal professionals. Designed to familiarize the student with the relevant and governing legal principles that are used in American jurisprudence, including substantive and procedural law. Emphasizes legal terminology in our contemporary legal system.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70047"
+    },
+    {
+      "specialTopics": false,
+      "name": "Constitutional Law",
+      "courseNumber": "6403",
+      "subject": "LAW",
+      "description": "Offers a broad overview of constitutional law. Emphasizes the subjects of federalism, judicial review, due process, and individual rights.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70053"
+    },
+    {
+      "specialTopics": false,
+      "name": "California Professional Responsibility",
+      "courseNumber": "6405",
+      "subject": "LAW",
+      "description": "Examines the rules that regulate the legal profession including the ABA Model Rules of Professional Conduct; the ABA Model Code of Judicial Conduct; the California Rules of Professional Conduct; relevant sections of the California Business and Professions Code; and leading case law, both federal and state, on the subject. Offers students an opportunity to gain a thorough understanding of the topics covered on the Multistate Professional Responsibility Examination and the California Bar Examination, including lawyer advertising; solicitation of clients; specialization; conflicts of interest; competence; legal malpractice; fees; confidentiality; and obligations to clients, the court, and society. Students apply applicable ethics rules to identify and resolve ethical problems within the practice of law.",
+      "maxCredits": 2,
+      "minCredits": 2,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70055"
+    },
+    {
+      "specialTopics": false,
+      "name": "Criminal Law",
+      "courseNumber": "6406",
+      "subject": "LAW",
+      "description": "Covers both federal and state criminal law in the United States. Reviews the entire time frame of a crime, from commission through prosecution and possible imprisonment. Examines multiple types of crime, including white-collar crime, as well as procedural rules of criminal cases. Covers provisions of the Bill of Rights that regulate the government’s pursuit, prosecution, and punishment of criminal defendants, with emphasis on the Fourth, Fifth, Sixth, and Eighth Amendments to the U.S. Constitution.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70066"
+    },
+    {
+      "specialTopics": false,
+      "name": "Corporate Finance",
+      "courseNumber": "7001",
+      "subject": "LAW",
+      "description": "Offers students an opportunity to gain an understanding of the funding sources and the structure of corporate financial transactions. Focuses on the tools necessary for a lawyer to render legal opinions in the financial sector. Seeks to help students understand the finances behind transactions such as negotiating a merger, taking a client private through a leveraged buyout (LBO) or public through an initial public offering (IPO), or securing capital for expansion or operations. Topics covered include valuation, debt securities, preferred stock, convertible securities, and distributions in respect of equity securities.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70064"
+    },
+    {
+      "specialTopics": false,
+      "name": "Intellectual Property",
+      "courseNumber": "7002",
+      "subject": "LAW",
+      "description": "Offers an overview of trade secrets and the basics of patent law, copyright law, and trademark law in the United States as derived from the pertinent federal statutes and through case law and administrative actors. Intellectual property is all about human creativity and ingenuity. It includes inventions and know-how, art and music, designs and branding. Intellectual property law is the legal framework used to determine, apportion, secure, and leverage these rights in the marketplace. Examines the relationship between intellectual property and global development, as well as how intellectual property is used in the marketplace through competition and antitrust law.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70048"
+    },
+    {
+      "specialTopics": false,
+      "name": "Mergers and Acquisitions",
+      "courseNumber": "7005",
+      "subject": "LAW",
+      "description": "Explores legal issues related to corporate mergers and acquisitions. Topics covered include acquisition structures and mechanics, shareholder voting and appraisal rights, board fiduciary duties, federal securities law requirements, anti-takeover defenses, accounting and tax issues, and antitrust considerations.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70051"
+    },
+    {
+      "specialTopics": false,
+      "name": "Law and Strategy",
+      "courseNumber": "6120",
+      "subject": "LW",
+      "description": "Introduces students to the implications and impact of law on strategy, with attention to applying legal knowledge and resources to strategic planning and strategy implementation. Uses several examples of readily understood strategies to provide opportunities for students to identify the legal environment, consider the legal rights and requirements implicated by relevant law or regulation (e.g., intellectual property, contracts, administrative law) and their potential impact on management, incorporating law as a resource on the resource based view of the firm. Range of examples include considering law and strategy implementation in multiple contexts. Focuses on developing an appreciation of the legal environment and making effective use of legal resources and lawyers as advisors in strategic management aimed at attaining sustainable competitive advantage over rivals.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LW",
+        "courseNumber": "6400"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70061"
+    },
+    {
+      "specialTopics": false,
+      "name": "Negotiation and Advocacy",
+      "courseNumber": "6130",
+      "subject": "LW",
+      "description": "Offers students an opportunity to learn core elements of negotiations that are the precursors to any final agreement or resolutions of informal disputes: negotiation planning from opposing sides and counseling; analysis of the bargaining range and opponent’s needs; principled concession patterns; problem-solving strategies to avoid deadlock; information bargaining and authority clarification; principles of drafting; settlement; and ethics.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70062"
+    },
+    {
+      "specialTopics": false,
+      "name": "Intellectual Property Survey",
+      "courseNumber": "6230",
+      "subject": "LW",
+      "description": "Introduces the classic principles of copyright, patent, trademark, and trade secret law and explores the ways in which those principles are shifting and adapting in response to new technology. In our modern-day “information economy,” the law of intellectual property (IP) has taken on enormous importance to both creators and users of creative works. Such IP law is the way we provide legal protection to encourage invention and creativity, by guaranteeing an opportunity for financial return to the originator of novel work.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "type": "or",
+        "items": [
+          {
+            "subject": "LW",
+            "courseNumber": "6102"
+          },
+          {
+            "subject": "LW",
+            "courseNumber": "6400"
+          }
+        ]
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70063"
+    },
+    {
+      "specialTopics": false,
+      "name": "Introduction to Legal Studies 1: Law and Legal Reasoning",
+      "courseNumber": "6101",
+      "subject": "LS",
+      "description": "This course will provide students with an introduction to the American legal system and legal reasoning. The course materials will cover rights and obligations created by contracts, fundamental principles of property law, accident law, the regulation of criminal conduct, and the laws associated with business formation and relationships. Students will also complete writing exercises to enable them to synthesize their understanding, and to find and use legal sources in support of their work.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {
+        "type": "and",
+        "items": [
+          {
+            "subject": "LS",
+            "courseNumber": "6102"
+          }
+        ]
+      },
+      "crn": "70038"
+    },
+    {
+      "specialTopics": false,
+      "name": "Introduction to Legal Studies 2",
+      "courseNumber": "6102",
+      "subject": "LS",
+      "description": "This course builds on LS 6101 with its emphasis on common law by introducing students to statutes and regulations. The setting involves federal administrative agencies governing employment, consumer protection, environment, labor, cyberlaw, intellectual property, and international trade. Exercises and discussions require finding, summarizing, applying and arguing about the applicability of statutes and regulations in concrete situations. The capstone of the course allows students to create a project to illustrate the lessons learned in the course.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6101"
+      },
+      "coreqs": {},
+      "postreqs": {
+        "type": "and",
+        "items": [
+          {
+            "subject": "LS",
+            "courseNumber": "6110"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6120"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6130"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6140"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6155"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6181"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6230"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6235"
+          },
+          {
+            "subject": "LS",
+            "courseNumber": "6300"
+          }
+        ]
+      },
+      "crn": "70040"
+    },
+    {
+      "specialTopics": false,
+      "name": "Law of Information and Records",
+      "courseNumber": "6110",
+      "subject": "LS",
+      "description": "This course will present a comprehensive survey of procedural and evidentiary rules in the context of recordkeeping, document production, due diligence, and investigations. It will include an exploration of rights to privacy, issues of confidentiality and conflicts of interest, contractual and legal liability, evidentiary consequences in administrative and court settings resulting from work-place disputes, and other related areas.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70043"
+    },
+    {
+      "specialTopics": false,
+      "name": "Law and Strategy",
+      "courseNumber": "6120",
+      "subject": "LS",
+      "description": "This course will introduce students to the implications and impact of law on strategy, with attention to applying legal knowledge and resources to strategic planning and strategy implementation. The course will use several examples of readily understood strategies to provide opportunities for students to identify the legal environment, consider the legal rights and requirements implicated by relevant law or regulation (e.g., intellectual property, contracts, administrative law) and their potential impact on management, incorporating law as a resource on the resource based view of the firm. The range of examples will include considering law and strategy implementation in multiple contexts. The focus will be on developing an appreciation of the legal environment and making effective use of legal resources and lawyers as advisors in strategic management aimed at attaining sustainable competitive advantage over rivals.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70046"
+    },
+    {
+      "specialTopics": false,
+      "name": "Negotiation and Advocacy",
+      "courseNumber": "6130",
+      "subject": "LS",
+      "description": "Students will learn core elements of negotiations that are the precursors to any final agreement or resolutions of informal disputes: negotiation planning from opposing sides and counseling, analysis of the bargaining range and opponent’s needs, principled concession patterns, problem-solving strategies to avoid deadlock, information bargaining and authority clarification, principles of drafting, settlement, and ethics.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70039"
+    },
+    {
+      "specialTopics": false,
+      "name": "Data Regulation and Compliance",
+      "courseNumber": "6140",
+      "subject": "LS",
+      "description": "Institutions increasingly face a host of regulatory compliance issues. This course (building on LS 6102) will cover the challenges facing organizations in building programs that ensure adherence with legal obligations, especially regarding data. We will explore statutes covering a broad range of areas, especially when it involves data protection and privacy.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70042"
+    },
+    {
+      "specialTopics": false,
+      "name": "Legal Foundations of Public Policy",
+      "courseNumber": "6155",
+      "subject": "LS",
+      "description": "Examines the legal framework for public policymaking at all levels of government. Topics include the role of law within the legislative, executive, and judicial branches of government and the contributions of local, state, and federal governments in crafting and implementing public policy. Explores the history of regulation and the rise of the administrative state. Reviews the landscape of current agency activities, including investigations and the imposition of sanctions. Introduces students to legislative and regulatory drafting processes. Offers students an opportunity to draft model legislation and participate in “notice and comment” rulemaking.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70058"
+    },
+    {
+      "specialTopics": false,
+      "name": "Healthcare Regulation and Compliance",
+      "courseNumber": "6181",
+      "subject": "LS",
+      "description": "This course covers major regulatory issues related to the healthcare field, providing an in-depth regulatory overview of health programs. Statutory schemes covered will include HIPAA/HITECH, Stark/fraud and abuse. In addition, students will learn about compliance programs, including compliance operations, and the code of conduct for particular fields.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70041"
+    },
+    {
+      "specialTopics": true,
+      "name": "Special Topics in Employee Rights and Employer Obligations",
+      "courseNumber": "6210",
+      "subject": "LS",
+      "description": "",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {},
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70044"
+    },
+    {
+      "specialTopics": false,
+      "name": "Intellectual Property Survey",
+      "courseNumber": "6230",
+      "subject": "LS",
+      "description": "In our modern day “information economy,” the law of intellectual property (IP) has taken on enormous importance to both creators and users of creative works. Such IP Law is the way we provide legal protection to encourage invention and creativity by guaranteeing an opportunity for financial return to the originator of novel work. This course introduces students to the classic principles of copyright, patent, trademark, and trade secret law and explores the ways in which those principles are shifting and adapting in response to new technology.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70045"
+    },
+    {
+      "specialTopics": false,
+      "name": "Current Issues in Law and Public Policy",
+      "courseNumber": "6235",
+      "subject": "LS",
+      "description": "Examines the evolving roles of courts, agencies, legislatures, citizen movements, and nonprofit organizations in policymaking through case studies of current debates in law and policy. Explores how businesses and advocacy groups combine the use of legal tools and other activities to achieve policy goals. Considers how law can be used to right past wrongs and how grassroots activities and individual actions can contribute to a fight against injustice. Focuses on a range of policy issues; possible topics include but are not limited to healthcare reform, criminal justice reform, racial justice, reproductive rights, marriage equality, and environmental justice.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70059"
+    },
+    {
+      "specialTopics": false,
+      "name": "Experiential Learning—MLS Field Project",
+      "courseNumber": "6300",
+      "subject": "LS",
+      "description": "Offers students an opportunity to develop, refine, and practice key business/nonprofit/government communications skills, project and client management techniques, and analytic approaches and learn how to distinguish between the role of lawyers and the role of other professional staff in an entrepreneurial, compliance, regulatory, or social justice context. Course requirements include an applied research project that involves recommendations and a plan for implementation, as well as reflection assignments. The coursework is designed to prepare students to apply analytic skills to specific professional challenges within a variety of legal and regulatory frameworks. Students also develop a professional plan for advancing their own academic and career development goals.",
+      "maxCredits": 3,
+      "minCredits": 3,
+      "attributes": [
+        "LB01"
+      ],
+      "prereqs": {
+        "subject": "LS",
+        "courseNumber": "6102"
+      },
+      "coreqs": {},
+      "postreqs": {},
+      "crn": "70060"
+    }
+  ],
+  "sections": {
+    "LAW6101": [
+      {
+        "crn": "70001",
+        "name": "Constitutional Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 3,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              2,
+              4
+            ],
+            "startTime": 800,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Waldman, Ari",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70002",
+        "name": "Constitutional Law",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 17,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2,
+              4
+            ],
+            "startTime": 1020,
+            "endTime": 1140,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Paul, Jeremy",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70003",
+        "name": "Constitutional Law",
+        "sectionNumber": "03",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 0,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2,
+              4
+            ],
+            "startTime": 900,
+            "endTime": 1020,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Davis, Martha",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6102": [
+      {
+        "crn": "70004",
+        "name": "Contracts",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 3,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2
+            ],
+            "startTime": 1400,
+            "endTime": 1530,
+            "final": false,
+            "finalDate": null
+          },
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              4
+            ],
+            "startTime": 1600,
+            "endTime": 1730,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Robinson, Hilary",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Robinson, Hilary",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70005",
+        "name": "Contracts",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 17,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2,
+              4
+            ],
+            "startTime": 830,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Saito, Blaine",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70006",
+        "name": "Contracts",
+        "sectionNumber": "03",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 0,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2,
+              4
+            ],
+            "startTime": 1540,
+            "endTime": 1710,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Phillips, David",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6103": [
+      {
+        "crn": "70007",
+        "name": "Criminal Justice",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 3,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2,
+              4
+            ],
+            "startTime": 1020,
+            "endTime": 1140,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Zoltek-Jick, Rose",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70008",
+        "name": "Criminal Justice",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 17,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2
+            ],
+            "startTime": 1400,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          },
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              4
+            ],
+            "startTime": 1600,
+            "endTime": 1720,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Reza, Sadiq",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Reza, Sadiq",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70009",
+        "name": "Criminal Justice",
+        "sectionNumber": "03",
+        "description": "",
+        "seatCapacity": 76,
+        "seatRemaining": 0,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              1,
+              2,
+              4
+            ],
+            "startTime": 1400,
+            "endTime": 1520,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Ramirez, Deborah",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6160": [
+      {
+        "crn": "70010",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Mallory, Carol",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70011",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 2,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1600,
+            "endTime": 1800,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Mallory, Carol",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70012",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "03",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1550,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hahn-Dupont, Margaret",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70013",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "04",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 800,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hartung, Stephanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70014",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "05",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 2,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1550,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hartung, Stephanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70015",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "06",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 800,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Leahy, Stefanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70016",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "07",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 2,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Leahy, Stefanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70017",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "08",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Bloom, Elizabeth",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70018",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "09",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1550,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Bloom, Elizabeth",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70019",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "10",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Johnson, Deborah",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70020",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "11",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1550,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Johnson, Deborah",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70021",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "12",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1350,
+            "endTime": 1550,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Tully, Lori Danielle",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70022",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "13",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 0,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1600,
+            "endTime": 1800,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Tully, Lori Danielle",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70023",
+        "name": "Legal Skills in Social Context",
+        "sectionNumber": "14",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              3
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hahn-Dupont, Margaret",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6165": [
+      {
+        "crn": "70024",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              5
+            ],
+            "startTime": 800,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Mallory, Carol",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70025",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 2,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Mallory, Carol",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70026",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "03",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              5
+            ],
+            "startTime": 800,
+            "endTime": 1000,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hahn-Dupont, Margaret",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70027",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "04",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hartung, Stephanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70028",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "05",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 2,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hartung, Stephanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70029",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "06",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Leahy, Stefanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70030",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "07",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 2,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Leahy, Stefanie",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70031",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "08",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Bloom, Elizabeth",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70032",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "09",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Bloom, Elizabeth",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70033",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "10",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Johnson, Deborah",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70034",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "11",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Johnson, Deborah",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70035",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "12",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Tully, Lori Danielle",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70036",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "13",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 0,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [
+          {
+            "building": null,
+            "room": null,
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Tully, Lori Danielle",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70037",
+        "name": "LSSC: Legal Research and Writing Component",
+        "sectionNumber": "14",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 1,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Boston",
+        "meetingTimes": [
+          {
+            "building": "BOS",
+            "room": "DEPT",
+            "days": [
+              5
+            ],
+            "startTime": 1010,
+            "endTime": 1210,
+            "final": false,
+            "finalDate": null
+          }
+        ],
+        "faculty": [
+          {
+            "displayName": "Hahn-Dupont, Margaret",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6400": [
+      {
+        "crn": "70047",
+        "name": "Introduction to U.S. Law and Legal System",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 16,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Urman, Daniel",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6403": [
+      {
+        "crn": "70053",
+        "name": "Constitutional Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 13,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Landergan, Mary",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6405": [
+      {
+        "crn": "70055",
+        "name": "California Professional Responsibility",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 15,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Mangiafico, Santina",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW6406": [
+      {
+        "crn": "70066",
+        "name": "Criminal Law",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 10,
+        "seatRemaining": 5,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Reza, Sadiq",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7001": [
+      {
+        "crn": "70064",
+        "name": "Corporate Finance",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 10,
+        "seatRemaining": 3,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7002": [
+      {
+        "crn": "70048",
+        "name": "Intellectual Property",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 19,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LAW7005": [
+      {
+        "crn": "70051",
+        "name": "Mergers and Acquisitions",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 21,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LW6120": [
+      {
+        "crn": "70061",
+        "name": "Law and Strategy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 5,
+        "seatRemaining": 4,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "McCoy Dunkley, Victoria",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LW6130": [
+      {
+        "crn": "70062",
+        "name": "Negotiation and Advocacy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 5,
+        "seatRemaining": 4,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Kornblum, Lori",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LW6230": [
+      {
+        "crn": "70063",
+        "name": "Intellectual Property Survey",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 5,
+        "seatRemaining": 0,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Bandopadhyay, Saptarishi",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6101": [
+      {
+        "crn": "70038",
+        "name": "Introduction to Legal Studies 1: Law and Legal Reasoning",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 34,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Cicchitto, Christina",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6102": [
+      {
+        "crn": "70040",
+        "name": "Introduction to Legal Studies 2",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 32,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Crosby, Tyler",
+            "email": null,
+            "primary": true
+          },
+          {
+            "displayName": "Rowan, James",
+            "email": null,
+            "primary": false
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6110": [
+      {
+        "crn": "70043",
+        "name": "Law of Information and Records",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 37,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Abrams, Joshua",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6120": [
+      {
+        "crn": "70046",
+        "name": "Law and Strategy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 35,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "McCoy Dunkley, Victoria",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6130": [
+      {
+        "crn": "70039",
+        "name": "Negotiation and Advocacy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 34,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Kornblum, Lori",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      },
+      {
+        "crn": "70067",
+        "name": "Negotiation and Advocacy",
+        "sectionNumber": "02",
+        "description": "",
+        "seatCapacity": 16,
+        "seatRemaining": 6,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Kornblum, Lori",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6140": [
+      {
+        "crn": "70042",
+        "name": "Data Regulation and Compliance",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 45,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Hart, Christopher",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6155": [
+      {
+        "crn": "70058",
+        "name": "Legal Foundations of Public Policy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 41,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Urman, Daniel",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6181": [
+      {
+        "crn": "70041",
+        "name": "Healthcare Regulation and Compliance",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 41,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Feinberg, Rebecca",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6210": [
+      {
+        "crn": "70044",
+        "name": "Special Topics in Employee Rights and Employer Obligations",
+        "sectionNumber": "01",
+        "description": "Examines the legal relationship between employer and employee. Addresses issues and topics such as discrimination, affirmative action, the Americans with Disabilities Act, sexual harassment, health and safety, AIDS in the workplace, compliance issues, and legal issues related to downsizing and terminations. Today’s HR manager works in a highly complex environment with constantly changing laws and legislation that govern employee rights and employer obligations. Course content may vary from term to term.",
+        "seatCapacity": 50,
+        "seatRemaining": 33,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Coakley, Briana",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {
+          "subject": "LS",
+          "courseNumber": "6102"
+        },
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6230": [
+      {
+        "crn": "70045",
+        "name": "Intellectual Property Survey",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 39,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Bandopadhyay, Saptarishi",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6235": [
+      {
+        "crn": "70059",
+        "name": "Current Issues in Law and Public Policy",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 50,
+        "seatRemaining": 38,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Lecture",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Miller, Jonathan",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ],
+    "LS6300": [
+      {
+        "crn": "70060",
+        "name": "Experiential Learning&mdash;MLS Field Project",
+        "sectionNumber": "01",
+        "description": "",
+        "seatCapacity": 25,
+        "seatRemaining": 25,
+        "waitlistCapacity": 0,
+        "waitlistRemaining": 0,
+        "classType": "Off-campus instruction w/ lec",
+        "honors": false,
+        "campus": "Online",
+        "meetingTimes": [],
+        "faculty": [
+          {
+            "displayName": "Russell, Robert",
+            "email": null,
+            "primary": true
+          }
+        ],
+        "prereqs": {},
+        "coreqs": {},
+        "xlist": []
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "code": "LB01",
+      "name": "Law Billing"
+    },
+    {
+      "code": "ZG75",
+      "name": "Cargill Hall Law Door Access"
+    }
+  ],
+  "subjects": [
+    {
+      "code": "LAW",
+      "description": "Law"
+    },
+    {
+      "code": "LW",
+      "description": "Law (for Non-Law School Stu)"
+    },
+    {
+      "code": "LS",
+      "description": "Legal Studies"
+    }
+  ],
+  "campuses": [
+    {
+      "code": "BOS",
+      "name": "Boston"
+    },
+    {
+      "code": "?",
+      "name": "Online"
+    }
+  ],
+  "buildings": [
+    {
+      "code": "BOS",
+      "name": "Boston",
+      "campus": "BOS"
+    }
+  ],
+  "rooms": [
+    {
+      "code": "DEPT",
+      "building": "BOS",
+      "campus": "BOS"
+    }
+  ]
+}
