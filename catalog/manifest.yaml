@@ -1,4 +1,9 @@
 terms:
+  # Summer 2026 Semester
+  - term: 202650
+    activeUntil: 2026-10-01
+  #
+  #
   # Spring 2026 Semester
   - term: 202630
     activeUntil: 2026-2-01
