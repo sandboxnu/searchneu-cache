@@ -1,0 +1,178 @@
+terms:
+  - term: 202125
+    activeUntil: 2026-01-01
+  - term: 202128
+    activeUntil: 2026-01-01
+  - term: 202130
+    activeUntil: 2026-01-01
+  - term: 202132
+    activeUntil: 2026-01-01
+  - term: 202134
+    activeUntil: 2026-01-01
+  - term: 202135
+    activeUntil: 2026-01-01
+  - term: 202138
+    activeUntil: 2026-01-01
+  - term: 202140
+    activeUntil: 2026-01-01
+  - term: 202150
+    activeUntil: 2026-01-01
+  - term: 202152
+    activeUntil: 2026-01-01
+  - term: 202154
+    activeUntil: 2026-01-01
+  - term: 202155
+    activeUntil: 2026-01-01
+  - term: 202160
+    activeUntil: 2026-01-01
+  - term: 202210
+    activeUntil: 2026-01-01
+  - term: 202212
+    activeUntil: 2026-01-01
+  - term: 202214
+    activeUntil: 2026-01-01
+  - term: 202215
+    activeUntil: 2026-01-01
+  - term: 202225
+    activeUntil: 2026-01-01
+  - term: 202230
+    activeUntil: 2026-01-01
+  - term: 202232
+    activeUntil: 2026-01-01
+  - term: 202234
+    activeUntil: 2026-01-01
+  - term: 202235
+    activeUntil: 2026-01-01
+  - term: 202240
+    activeUntil: 2026-01-01
+  - term: 202250
+    activeUntil: 2026-01-01
+  - term: 202252
+    activeUntil: 2026-01-01
+  - term: 202254
+    activeUntil: 2026-01-01
+  - term: 202255
+    activeUntil: 2026-01-01
+  - term: 202260
+    activeUntil: 2026-01-01
+  - term: 202310
+    activeUntil: 2026-01-01
+  - term: 202312
+    activeUntil: 2026-01-01
+  - term: 202314
+    activeUntil: 2026-01-01
+  - term: 202315
+    activeUntil: 2026-01-01
+  - term: 202325
+    activeUntil: 2026-01-01
+  - term: 202330
+    activeUntil: 2026-01-01
+  - term: 202332
+    activeUntil: 2026-01-01
+  - term: 202334
+    activeUntil: 2026-01-01
+  - term: 202335
+    activeUntil: 2026-01-01
+  - term: 202340
+    activeUntil: 2026-01-01
+  - term: 202350
+    activeUntil: 2026-01-01
+  - term: 202352
+    activeUntil: 2026-01-01
+  - term: 202354
+    activeUntil: 2026-01-01
+  - term: 202355
+    activeUntil: 2026-01-01
+  - term: 202360
+    activeUntil: 2026-01-01
+  - term: 202410
+    activeUntil: 2026-01-01
+  - term: 202412
+    activeUntil: 2026-01-01
+  - term: 202414
+    activeUntil: 2026-01-01
+  - term: 202415
+    activeUntil: 2026-01-01
+  - term: 202425
+    activeUntil: 2026-01-01
+  - term: 202430
+    activeUntil: 2026-01-01
+  - term: 202432
+    activeUntil: 2026-01-01
+  - term: 202434
+    activeUntil: 2026-01-01
+  - term: 202435
+    activeUntil: 2026-01-01
+  - term: 202440
+    activeUntil: 2026-01-01
+  - term: 202450
+    activeUntil: 2026-01-01
+  - term: 202452
+    activeUntil: 2026-01-01
+  - term: 202454
+    activeUntil: 2026-01-01
+  - term: 202455
+    activeUntil: 2026-01-01
+  - term: 202460
+    activeUntil: 2026-01-01
+  - term: 202510
+    activeUntil: 2026-01-01
+  - term: 202512
+    activeUntil: 2026-01-01
+  - term: 202514
+    activeUntil: 2026-01-01
+  - term: 202515
+    activeUntil: 2026-01-01
+  - term: 202525
+    activeUntil: 2026-01-01
+  - term: 202530
+    activeUntil: 2026-01-01
+  - term: 202532
+    activeUntil: 2026-01-01
+  - term: 202534
+    activeUntil: 2026-01-01
+  - term: 202535
+    activeUntil: 2026-01-01
+  - term: 202540
+    name: Summer 1 2025
+    activeUntil: 2026-01-01
+  - term: 202550
+    name: Summer Full 2025
+    activeUntil: 2026-01-01
+  - term: 202552
+    name: Summer 2025
+    activeUntil: 2026-01-01
+  - term: 202554
+    name: Summer 2025
+    activeUntil: 2026-01-01
+  - term: 202555
+    name: Summer 2025
+    activeUntil: 2026-01-01
+  - term: 202560
+    name: Summer 2 2025
+    activeUntil: 2026-01-01
+  - term: 202610
+    name: Fall 2025
+    activeUntil: 2025-10-01
+  - term: 202615
+    name: Fall 2025
+    activeUntil: 2025-12-10
+  - term: 202625
+    name: Winter 2026
+    activeUntil: 2026-2-01
+  - term: 202630
+    name: Spring 2026
+    activeUntil: 2026-2-01
+  - term: 202650
+    splitByPartOfTerm: true
+    parts:
+      - code: "1"
+        name: Summer 2026 - Full
+      - code: 2A
+        name: Summer 2026 - Session A
+      - code: 2B
+        name: Summer 2026 - Session B
+    activeUntil: 2026-10-01
+  - term: 202710
+    name: Fall 2026
+    activeUntil: 2026-10-01

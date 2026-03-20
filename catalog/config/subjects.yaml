@@ -1,0 +1,467 @@
+subjects:
+  - code: AACE
+    description: Arts Admin & Cultural Entrep
+  - code: AAI
+    description: Applied AI - CPS
+  - code: ABRC
+    description: Study Abroad
+  - code: ABRD
+    description: Study Abroad
+  - code: ABRL
+    description: Study Abroad - Law
+  - code: ABRS
+    description: Study Abroad - Science
+  - code: ABRU
+    description: Study USA
+  - code: ACC
+    description: Accounting - CPS
+  - code: ACCT
+    description: Accounting
+  - code: AFAM
+    description: African American Studies
+  - code: AFCS
+    description: Africana Studies
+  - code: AFRS
+    description: African Studies
+  - code: ALY
+    description: Analytics - CPS
+  - code: AMSL
+    description: American Sign Language
+  - code: ANT
+    description: Anthropology - CPS
+  - code: ANTH
+    description: Anthropology
+  - code: APL
+    description: Applied Logistics - CPS
+  - code: ARAB
+    description: Arabic
+  - code: ARCH
+    description: Architecture
+  - code: ARMY
+    description: Army ROTC
+  - code: ART
+    description: Art - CPS
+  - code: ARTD
+    description: Art - Media Arts
+  - code: ARTE
+    description: Art - General
+  - code: ARTF
+    description: Art - Fundamentals
+  - code: ARTG
+    description: Art - Design
+  - code: ARTH
+    description: Art - History
+  - code: ARTS
+    description: Art - Studio
+  - code: ASNS
+    description: Asian Studies
+  - code: AVM
+    description: Adv Manufacturing System - CPS
+  - code: BINF
+    description: Bioinformatics
+  - code: BIO
+    description: Biology - CPS
+  - code: BIOC
+    description: Biochemistry
+  - code: BIOE
+    description: Bioengineering
+  - code: BIOL
+    description: Biology
+  - code: BIOT
+    description: Biotechnology
+  - code: BNSC
+    description: Behavioral Neuroscience
+  - code: BTC
+    description: Biotechnology - CPS
+  - code: BUSN
+    description: Business Administration
+  - code: CAEP
+    description: Counseling and Applied Ed Psyc
+  - code: CDV
+    description: Career Development - CPS
+  - code: CED
+    description: Commerce & Economic Dev - CPS
+  - code: CET
+    description: Computer Engineerng Tech - CPS
+  - code: CHEM
+    description: Chemistry & Chemical Biology
+  - code: CHM
+    description: Chemistry - CPS
+  - code: CHME
+    description: Chemical Engineering
+  - code: CHNS
+    description: Chinese
+  - code: CIVE
+    description: Civil & Environmental Engineer
+  - code: CJS
+    description: Criminal Justice - CPS
+  - code: CLTR
+    description: Culture
+  - code: CMG
+    description: Construction Mangmnt - CPS
+  - code: CMN
+    description: Communicatn Studies - CPS
+  - code: CNET
+    description: Complex Networks
+  - code: COMM
+    description: Communication Studies
+  - code: COOP
+    description: Cooperative Education
+  - code: COP
+    description: Cooperative Educatn - CPS
+  - code: CRIM
+    description: Criminal Justice
+  - code: CRWT
+    description: Creative Writing
+  - code: CS
+    description: Computer Science
+  - code: CSYE
+    description: Computer Systems Engineering
+  - code: CY
+    description: Cybersecurity
+  - code: DA
+    description: Data Analytics
+  - code: DADS
+    description: Data Analytics & Decision Supp
+  - code: DAMG
+    description: Data Architecture Management
+  - code: DEAF
+    description: Deaf Studies
+  - code: DGM
+    description: Digital Media - CPS
+  - code: DS
+    description: Data Science
+  - code: EAI
+    description: Enterprise Artfcal Intellgnce
+  - code: ECN
+    description: Economics - CPS
+  - code: ECNM
+    description: Economics - CPS Spec
+  - code: ECON
+    description: Economics
+  - code: EDU
+    description: Education - CPS
+  - code: EDUC
+    description: Education
+  - code: EDUT
+    description: Education - California Prepare
+  - code: EEAM
+    description: Coop/Exper Ed - Arts/Med/Dsgn
+  - code: EEBA
+    description: Coop/Exper Ed - Business
+  - code: EECE
+    description: Electrical and Comp Engineerng
+  - code: EEMB
+    description: Ecology, Evolutn & Marine Biol
+  - code: EESC
+    description: Coop/Exper Ed - Science
+  - code: EESH
+    description: Coop/Exper Ed - Soc Sci/Hum
+  - code: EET
+    description: Electrical Engineer Tech - CPS
+  - code: EMGT
+    description: Engineering Management
+  - code: ENCP
+    description: Engineering Cooperative Ed
+  - code: ENG
+    description: English - CPS
+  - code: ENGL
+    description: English
+  - code: ENGR
+    description: Engineering Interdisciplinary
+  - code: ENGW
+    description: English Writing
+  - code: ENLR
+    description: Engineering Leadership
+  - code: ENSY
+    description: Energy Systems
+  - code: ENTR
+    description: Entrepreneurship & Innovation
+  - code: ENVR
+    description: Earth & Environmental Sciences
+  - code: ENVS
+    description: Environmental Studies
+  - code: ESC
+    description: Environmental Science - CPS
+  - code: ESL
+    description: English as Scnd Lang - CPS
+  - code: ESLG
+    description: English as Scnd Lng - CPS Spec
+  - code: EXED
+    description: Coop/Experiential Education
+  - code: EXRE
+    description: Extended Realities
+  - code: EXSC
+    description: Cardiopulmonary & Exercise Sci
+  - code: FIN
+    description: Finance - CPS
+  - code: FINA
+    description: Finance & Insurance
+  - code: FRNH
+    description: French
+  - code: FSEM
+    description: First-Year Seminar
+  - code: GAME
+    description: Game Design
+  - code: GBST
+    description: Global Studies
+  - code: GE
+    description: General Engineering
+  - code: GENS
+    description: General Studies
+  - code: GET
+    description: General Engineering Tech - CPS
+  - code: GIS
+    description: Geographic Info Sys - CPS
+  - code: GRMN
+    description: German
+  - code: GSND
+    description: Game Science and Design
+  - code: GST
+    description: Global Studies - CPS
+  - code: HBRW
+    description: Hebrew
+  - code: HINF
+    description: Health Informatics
+  - code: HIST
+    description: History
+  - code: HLS
+    description: Homeland Security - CPS
+  - code: HLTH
+    description: Health Sci - Interdisciplinary
+  - code: HMG
+    description: Health Management - CPS
+  - code: HONR
+    description: Honors Program
+  - code: HRM
+    description: Human Resources Mgmt - CPS
+  - code: HRMG
+    description: Human Resources Management
+  - code: HSC
+    description: Health Science - CPS
+  - code: HSCI
+    description: Health Science
+  - code: HST
+    description: History - CPS
+  - code: HSTY
+    description: History - CPS Spec
+  - code: HSV
+    description: Human Services - CPS
+  - code: HUSV
+    description: Human Services
+  - code: IE
+    description: Industrial Engineering
+  - code: INAM
+    description: Interdisc Studies - Arts/Media
+  - code: INFO
+    description: Information Systems Program
+  - code: INMI
+    description: Interdisc Studies - Mills Coll
+  - code: INNO
+    description: Corporate Innovation
+  - code: INPR
+    description: Interdisc Studies - Provost
+  - code: INS
+    description: Insurance - CPS
+  - code: INSC
+    description: Interdisc Studies - Science
+  - code: INSH
+    description: Interdisc Studies - Soc Sc/Hum
+  - code: INT
+    description: Interdiscpln Studies - CPS
+  - code: INTB
+    description: International Business
+  - code: INTL
+    description: International Affairs
+  - code: INTP
+    description: Interpreting
+  - code: IS
+    description: Information Science
+  - code: ITC
+    description: Information Tech - CPS
+  - code: ITLN
+    description: Italian
+  - code: JPNS
+    description: Japanese
+  - code: JRNL
+    description: Journalism
+  - code: JWSS
+    description: Jewish Studies
+  - code: KORE
+    description: Korean
+  - code: LACS
+    description: Latin Am & Carib Studies
+  - code: LANG
+    description: Language - General
+  - code: LARC
+    description: Landscape Architecture
+  - code: LAW
+    description: Law
+  - code: LDR
+    description: Leadership Studies - CPS
+  - code: LING
+    description: Linguistics
+  - code: LPSC
+    description: Law and Public Policy
+  - code: LS
+    description: Legal Studies
+  - code: LST
+    description: Liberal Studies - CPS
+  - code: LW
+    description: Law (for Non-Law School Stu)
+  - code: LWP
+    description: Law & Policy - CPS
+  - code: MATH
+    description: Mathematics
+  - code: MATL
+    description: Materials Engineering
+  - code: MATM
+    description: Mathematics - CPS Spec
+  - code: ME
+    description: Mechanical Engineering
+  - code: MECN
+    description: Managerial Economics
+  - code: MEIE
+    description: Mech & Industrial Engineering
+  - code: MET
+    description: Mechanical Engineer Tech - CPS
+  - code: MGMT
+    description: Management
+  - code: MGSC
+    description: Management Science
+  - code: MGT
+    description: Management - CPS
+  - code: MISM
+    description: Management Information Systems
+  - code: MKT
+    description: Marketing - CPS
+  - code: MKTG
+    description: Marketing
+  - code: MSCI
+    description: Medical Sciences
+  - code: MSCR
+    description: Media and Screen Studies
+  - code: MTH
+    description: Mathematics - CPS
+  - code: MUS
+    description: Music - CPS
+  - code: MUSC
+    description: Music
+  - code: MUSI
+    description: Music Industry
+  - code: MUST
+    description: Music Technology
+  - code: NETS
+    description: Network Science
+  - code: NNMD
+    description: Nanomedicine
+  - code: NPM
+    description: Nonprofit Management - CPS
+  - code: NRSG
+    description: Nursing
+  - code: NTR
+    description: Nutrition - CPS
+  - code: OR
+    description: Operations Research
+  - code: ORGB
+    description: Organizational Behavior
+  - code: PA
+    description: Physician Assistant
+  - code: PBR
+    description: Public Relations - CPS
+  - code: PDM
+    description: Product Management - CPS
+  - code: PDP
+    description: Prof Devlpmnt Progs - CPS
+  - code: PHDL
+    description: PhD Experiential Leadership
+  - code: PHIL
+    description: Philosophy
+  - code: PHL
+    description: Philosophy - CPS
+  - code: PHLS
+    description: Philosophy - CPS Spec
+  - code: PHMD
+    description: Pharmacy Practice
+  - code: PHSC
+    description: Pharmaceutical Science
+  - code: PHTH
+    description: Public Health
+  - code: PHY
+    description: Physics - CPS
+  - code: PHYS
+    description: Physics
+  - code: PJM
+    description: Project Management - CPS
+  - code: PMCL
+    description: Pharmacology
+  - code: PMST
+    description: Pharmaceutics
+  - code: POL
+    description: Political Science - CPS
+  - code: POLS
+    description: Political Science
+  - code: PORT
+    description: Portuguese
+  - code: PPUA
+    description: Pub Policy and Urban Affairs
+  - code: PREL
+    description: Public Relations
+  - code: PST
+    description: Professional Studies - CPS
+  - code: PSY
+    description: Psychology - CPS
+  - code: PSYC
+    description: Psychology
+  - code: PT
+    description: Physical Therapy
+  - code: PTH
+    description: Physical Therapy - CPS
+  - code: RFA
+    description: Regulatory Affairs Food - CPS
+  - code: RGA
+    description: Regulatory Affairs - CPS
+  - code: RMS
+    description: Remote Sensing - CPS
+  - code: RPT
+    description: Respiratory Therapy - CPS
+  - code: RSSN
+    description: Russian
+  - code: SBSY
+    description: Sustainable Building Systems
+  - code: SCHM
+    description: Supply Chain Management
+  - code: SCLY
+    description: Sociology - CPS Spec
+  - code: SIA
+    description: Strategic Intel/Analysis - CPS
+  - code: SLPA
+    description: Speech-Lang Path & Audiology
+  - code: SMFA
+    description: School of Museum of Fine Arts
+  - code: SMT
+    description: Sales Management - CPS
+  - code: SOC
+    description: Sociology - CPS
+  - code: SOCL
+    description: Sociology
+  - code: SPNS
+    description: Spanish
+  - code: STRT
+    description: Strategy
+  - code: SUEN
+    description: Sustainable Urban Environments
+  - code: SUST
+    description: Sustainability Studies
+  - code: TCC
+    description: Technical Communic - CPS
+  - code: TECE
+    description: Entrepreneurship Technological
+  - code: TELE
+    description: Telecommunication Systems
+  - code: TELR
+    description: Technology Leadership
+  - code: THTR
+    description: Theatre
+  - code: WMNS
+    description: Women's/Gender/Sexualty Stdies

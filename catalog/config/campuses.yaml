@@ -1,0 +1,70 @@
+campuses:
+  - code: ARB
+    name: Study Abroad
+    group: ""
+  - code: ARL
+    name: Arlington, VA
+    group: ""
+  - code: BOS
+    name: Boston
+    group: ""
+  - code: BRD
+    name: Boston - Broad Street
+    group: ""
+  - code: BRL
+    name: Burlington
+    group: ""
+  - code: CHL
+    name: Charlotte, NC
+    group: ""
+  - code: DDH
+    name: Dedham
+    group: ""
+  - code: FHW
+    name: Friday Harbor, Washington
+    group: ""
+  - code: LON
+    name: London
+    group: ""
+  - code: MFA
+    name: Museum of Fine Arts
+    group: ""
+  - code: MIA
+    name: Miami, FL
+    group: ""
+  - code: NAH
+    name: Nahant
+    group: ""
+  - code: OAK
+    name: Oakland, CA
+    group: ""
+  - code: PAN
+    name: Panama
+    group: ""
+  - code: PTL
+    name: Portland, Maine
+    group: ""
+  - code: SEA
+    name: Seattle, WA
+    group: ""
+  - code: SFR
+    name: San Francisco, CA
+    group: ""
+  - code: SJO
+    name: Silicon Valley, CA
+    group: ""
+  - code: TOR
+    name: Toronto, Canada
+    group: ""
+  - code: VAN
+    name: Vancouver, Canada
+    group: ""
+  - code: VTC
+    name: Online Contingency
+    group: ""
+  - code: VTL
+    name: Online
+    group: ""
+  - code: XCR
+    name: No campus, no room needed
+    group: ""

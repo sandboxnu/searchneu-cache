@@ -1,0 +1,40 @@
+nupaths:
+  - code: NCND
+    short: ND
+    name: Natural/Designed World
+  - code: NCEI
+    short: EI
+    name: Creative Express/Innov
+  - code: NCIC
+    short: IC
+    name: Interpreting Culture
+  - code: NCFQ
+    short: FQ
+    name: Formal/Quant Reasoning
+  - code: NCSI
+    short: SI
+    name: Societies/Institutions
+  - code: NCAD
+    short: AD
+    name: Analyzing/Using Data
+  - code: NCDD
+    short: DD
+    name: Difference/Diversity
+  - code: NCER
+    short: ER
+    name: Ethical Reasoning
+  - code: NCW1
+    short: WF
+    name: First Year Writing
+  - code: NCWI
+    short: WI
+    name: Writing Intensive
+  - code: NCW2
+    short: WD
+    name: Advanced Writing
+  - code: NCEX
+    short: EX
+    name: Integration Experience
+  - code: NCCE
+    short: CE
+    name: Capstone Experience

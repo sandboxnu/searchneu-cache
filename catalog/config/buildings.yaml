@@ -1,0 +1,220 @@
+buildings:
+  - code: "225"
+    name: 225 Terry Ave
+    campus: SEA
+  - code: "271"
+    name: 271 Huntington (LP)
+    campus: BOS
+  - code: "333"
+    name: Northeastern Vancouver
+    campus: VAN
+  - code: "401"
+    name: 401 Terry Ave
+    campus: SEA
+  - code: ARL
+    name: Northeastern Arlington Tower
+    campus: ARL
+  - code: BD
+    name: 89 Broad Street
+    campus: BOS
+  - code: BK
+    name: Behrakis Health Sciences Cntr
+    campus: BOS
+  - code: BL
+    name: Burlington
+    campus: BOS
+  - code: BN
+    name: Barletta Natatorium
+    campus: BOS
+  - code: BOS
+    name: Boston
+    campus: BOS
+  - code: CA
+    name: Cahners Hall
+    campus: BOS
+  - code: CALIF
+    name: WeWork- 600 California Street
+    campus: SFR
+  - code: CG
+    name: Cargill Hall
+    campus: BOS
+  - code: CH
+    name: Churchill Hall
+    campus: BOS
+  - code: CN
+    name: Cullinane Building
+    campus: BOS
+  - code: CUBE
+    name: Miami Campus 230 NW 24th St
+    campus: MIA
+  - code: DA
+    name: Dana Research Center
+    campus: BOS
+  - code: DG
+    name: Dodge Hall
+    campus: BOS
+  - code: DK
+    name: Dockser Hall
+    campus: BOS
+  - code: EC
+    name: Egan Eng&#39;g/Sci Research Center
+    campus: BOS
+  - code: EL
+    name: Ell Hall
+    campus: BOS
+  - code: EV
+    name: East Village
+    campus: BOS
+  - code: EXP
+    name: EXP
+    campus: BOS
+  - code: FC
+    name: Fenway Center
+    campus: BOS
+  - code: FCP
+    name: First Canadian Place
+    campus: TOR
+  - code: FR
+    name: Forsyth Building
+    campus: BOS
+  - code: HA
+    name: Hayden Hall
+    campus: BOS
+  - code: HO
+    name: Holmes Hall
+    campus: BOS
+  - code: HS
+    name: Hastings Suite
+    campus: BOS
+  - code: HT
+    name: Hurtig Hall
+    campus: BOS
+  - code: INV
+    name: International Village
+    campus: BOS
+  - code: ISEC
+    name: Science Engineering Complex
+    campus: BOS
+  - code: KA
+    name: Kariotis Hall
+    campus: BOS
+  - code: KN
+    name: Knowles Center
+    campus: BOS
+  - code: LA
+    name: Lake Hall
+    campus: BOS
+  - code: LINE
+    name: Northeastern Charlotte
+    campus: CHL
+  - code: M14
+    name: Music Building
+    campus: OAK
+  - code: M20
+    name: Graduate School of Business
+    campus: OAK
+  - code: M21
+    name: Aron Art Center A
+    campus: OAK
+  - code: M23
+    name: Aron Art Center F Photography
+    campus: OAK
+  - code: M24
+    name: Aron Art Center E Painting
+    campus: OAK
+  - code: M25
+    name: Aron Art Center C Ceramics
+    campus: OAK
+  - code: M26
+    name: Aron Art Center D Sculpture
+    campus: OAK
+  - code: M30
+    name: Vera Long
+    campus: OAK
+  - code: M41
+    name: Natural Science
+    campus: OAK
+  - code: M44
+    name: Mills Hall
+    campus: OAK
+  - code: M48
+    name: CPM
+    campus: OAK
+  - code: M54
+    name: Lucie Stern
+    campus: OAK
+  - code: M62
+    name: Education Department
+    campus: OAK
+  - code: ME
+    name: Meserve Hall
+    campus: BOS
+  - code: MSI
+    name: Marine Science Inst (Nahant)
+    campus: BOS
+  - code: MU
+    name: Mugar Life Science Building
+    campus: BOS
+  - code: NI
+    name: Nightingale Hall
+    campus: BOS
+  - code: PM
+    name: Portland, Maine
+    campus: PTL
+  - code: QSW
+    name: 375 Queen Street, Toronto
+    campus: TOR
+  - code: RB
+    name: Robinson Hall
+    campus: BOS
+  - code: RG
+    name: Ruggles Station
+    campus: BOS
+  - code: RI
+    name: Richards Hall
+    campus: BOS
+  - code: RXI
+    name: Roux Institute 100 Fore St.
+    campus: PTL
+  - code: RY
+    name: Ryder Hall
+    campus: BOS
+  - code: SE
+    name: Stetson East
+    campus: BOS
+  - code: SH
+    name: Shillman Hall
+    campus: BOS
+  - code: SJ
+    name: Northeastern San Jose
+    campus: SJO
+  - code: SL
+    name: Snell Library
+    campus: BOS
+  - code: SN
+    name: Snell Engineering Center
+    campus: BOS
+  - code: ST
+    name: Stearns Center
+    campus: BOS
+  - code: VTL
+    name: Virtual Space- Online class
+    campus: VTL
+  - code: WGV
+    name: West Georgia
+    campus: VAN
+  - code: WVC
+    name: West Village C
+    campus: BOS
+  - code: WVF
+    name: West Village F
+    campus: BOS
+  - code: WVG
+    name: West Village G
+    campus: BOS
+  - code: WVH
+    name: West Village H
+    campus: BOS
+  - code: XCR
+    name: Unidentified campus
+    campus: XCR
